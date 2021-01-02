@@ -38,7 +38,10 @@ I can also be found:
 - [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/jagosw/)
 - [<img src="https://img.shields.io/badge/Instagram-1877F2?style=for-the-badge&logo=instagram&logoColor=white"/>](https://www.instagram.com/jago.sw/) where I mainly post astrophotography
 
-Some stats (please note this doesn't include my current trajectory simulation project which has >8000 lines of code and >300 commits.
+Some stats (please note this doesn't include my current trajectory simulation project which has >8000 lines of code and >300 commits):
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=jagoosw&count_private=true&show_icons=true&theme=radical&hide_title=true&hide_border=true)
 [](https://komarev.com/ghpvc/?username=jagoosw)
+
+My recent activity:
+<!--START_SECTION:activity-->
