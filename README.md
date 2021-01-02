@@ -43,7 +43,7 @@ Some stats (please note this doesn't include my current trajectory simulation pr
 ![Github stats](https://github-readme-stats.vercel.app/api?username=jagoosw&count_private=true&show_icons=true&theme=radical&hide_title=true&hide_border=true)
 [](https://komarev.com/ghpvc/?username=jagoosw)
 
-My recent activity:
+My recent activity (again excluding private repos):
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#20](https://github.com/Altimis/Scweet/pull/20) in [Altimis/Scweet](https://github.com/Altimis/Scweet)
 2. 🗣 Commented on [#15390](https://github.com/MarlinFirmware/Marlin/issues/15390) in [MarlinFirmware/Marlin](https://github.com/MarlinFirmware/Marlin)
