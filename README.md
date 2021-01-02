@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm an astrophysics student at the [University of Cambridge](https://www.ast.cam.ac.uk/students/current.undergraduates/part.ii.astrophysics) with other interests in all sciences space flights/rockets and many other things. 
+I'm an astrophysics student at the [University of Cambridge](https://www.ast.cam.ac.uk/students/current.undergraduates/part.ii.astrophysics) with other interests in all sciences, space flights/rockets and many other things. 
 
 The main projects I am working on at the moment are a fully featured rocket trajectory simulation and computing assignments for my course. The rocket simulation is unique in including a Monte Carlo stochastic simulation including guassian process wind noise and will be available soon when preliminary documentation is complete. Heres a few plots from a previous version:
 
