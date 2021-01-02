@@ -19,8 +19,10 @@ I'm an astrophysics student at the [University of Cambridge](https://www.ast.cam
 
 The main projects I am working on at the moment are a fully featured rocket trajectory simulation and computing assignments for my course. The rocket simulation is unique in including a Monte Carlo stochastic simulation including guassian process wind noise and will be available soon when preliminary documentation is complete. Heres a few plots from a previous version:
 
-![Plot of rocket trajectories](rocket1.png) ![Plot of rocket trajectories](rocket2.png)
-
+<p float="left">
+  <img src="rocket1.png" width="100" />
+  <img src="rocket2.png" width="100" /> 
+</p>
 On top of my course I am currently leanring about statistical modeling of dynamic systems and dipping my toes in with atmospheric physics to the end of understanding climate change better.
 
 My goals for 2021 are:
