@@ -45,9 +45,9 @@ Some stats (please note this doesn't include my current trajectory simulation pr
 
 My recent activity (again excluding private repos):
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#20](https://github.com/Altimis/Scweet/pull/20) in [Altimis/Scweet](https://github.com/Altimis/Scweet)
-2. 🗣 Commented on [#15390](https://github.com/MarlinFirmware/Marlin/issues/15390) in [MarlinFirmware/Marlin](https://github.com/MarlinFirmware/Marlin)
-3. 🗣 Commented on [#19450](https://github.com/MarlinFirmware/Marlin/issues/19450) in [MarlinFirmware/Marlin](https://github.com/MarlinFirmware/Marlin)
-4. 🗣 Commented on [#19781](https://github.com/MarlinFirmware/Marlin/issues/19781) in [MarlinFirmware/Marlin](https://github.com/MarlinFirmware/Marlin)
+1. 🗣 Commented on [#1](https://github.com/jagoosw/Ender-5-Marlin/issues/1) in [jagoosw/Ender-5-Marlin](https://github.com/jagoosw/Ender-5-Marlin)
+2. 💪 Opened PR [#20](https://github.com/Altimis/Scweet/pull/20) in [Altimis/Scweet](https://github.com/Altimis/Scweet)
+3. 🗣 Commented on [#15390](https://github.com/MarlinFirmware/Marlin/issues/15390) in [MarlinFirmware/Marlin](https://github.com/MarlinFirmware/Marlin)
+4. 🗣 Commented on [#19450](https://github.com/MarlinFirmware/Marlin/issues/19450) in [MarlinFirmware/Marlin](https://github.com/MarlinFirmware/Marlin)
 5. 🗣 Commented on [#19781](https://github.com/MarlinFirmware/Marlin/issues/19781) in [MarlinFirmware/Marlin](https://github.com/MarlinFirmware/Marlin)
 <!--END_SECTION:activity-->
