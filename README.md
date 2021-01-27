@@ -45,9 +45,9 @@ Some stats (please note this doesn't include my current trajectory simulation pr
 
 My recent activity (again excluding private repos):
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#13442](https://github.com/scipy/scipy/pull/13442) in [scipy/scipy](https://github.com/scipy/scipy)
-2. 🗣 Commented on [#13492](https://github.com/ray-project/ray/issues/13492) in [ray-project/ray](https://github.com/ray-project/ray)
+1. 🗣 Commented on [#13442](https://github.com/scipy/scipy/issues/13442) in [scipy/scipy](https://github.com/scipy/scipy)
+2. 💪 Opened PR [#13442](https://github.com/scipy/scipy/pull/13442) in [scipy/scipy](https://github.com/scipy/scipy)
 3. 🗣 Commented on [#13492](https://github.com/ray-project/ray/issues/13492) in [ray-project/ray](https://github.com/ray-project/ray)
-4. ❗️ Opened issue [#13492](https://github.com/ray-project/ray/issues/13492) in [ray-project/ray](https://github.com/ray-project/ray)
-5. 🗣 Commented on [#1](https://github.com/jagoosw/Ender-5-Marlin/issues/1) in [jagoosw/Ender-5-Marlin](https://github.com/jagoosw/Ender-5-Marlin)
+4. 🗣 Commented on [#13492](https://github.com/ray-project/ray/issues/13492) in [ray-project/ray](https://github.com/ray-project/ray)
+5. ❗️ Opened issue [#13492](https://github.com/ray-project/ray/issues/13492) in [ray-project/ray](https://github.com/ray-project/ray)
 <!--END_SECTION:activity-->
