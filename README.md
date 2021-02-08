@@ -17,12 +17,15 @@ Here are some ideas to get you started:
 
 I'm an astrophysics student at the [University of Cambridge](https://www.ast.cam.ac.uk/students/current.undergraduates/part.ii.astrophysics) with a wide variety of interest.
 
-The main projects I am working on at the moment are a fully featured rocket trajectory simulation and computing assignments for my course. The rocket simulation is unique in including a Monte Carlo stochastic simulation including guassian process wind noise and will be available soon when preliminary documentation is complete. Heres a few plots from a previous version:
+The main projects I am working on at the moment are a fully featured rocket trajectory simulation and computing assignments for my course. The trajectory simulation includes:
+- 6 degrees of freedom (3 translational, 3 rotational)
+- Monte Carlo stochastic analysis
+- Aerodynamic heating model
+- Use of live wind data
+- Variable mass and moments of inertia models
 
-<p float="centre">
-  <img src="rocket2.png" width="45%" />
-  <img src="rocket1.png" width="45%" /> 
-</p>
+The first release can be found [here](https://github.com/CUSF-Simulation/CamPyRoS). At the moment I am working on adding stochastic variability to the wind data by generating a guassian difference profile from historic records and forcasts.
+
 On top of my course I am currently leanring about statistical modeling of dynamic systems and dipping my toes in with atmospheric physics to the end of understanding climate change better.
 
 My goals for 2021 are:
