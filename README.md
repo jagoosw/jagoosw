@@ -43,9 +43,9 @@ Some stats:
 
 My recent activity (again excluding private repos):
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#23](https://github.com/CUSF-Simulation/CamPyRoS/pull/23) in [CUSF-Simulation/CamPyRoS](https://github.com/CUSF-Simulation/CamPyRoS)
-2. 💪 Opened PR [#23](https://github.com/CUSF-Simulation/CamPyRoS/pull/23) in [CUSF-Simulation/CamPyRoS](https://github.com/CUSF-Simulation/CamPyRoS)
-3. 🗣 Commented on [#13442](https://github.com/scipy/scipy/issues/13442) in [scipy/scipy](https://github.com/scipy/scipy)
-4. 💪 Opened PR [#13442](https://github.com/scipy/scipy/pull/13442) in [scipy/scipy](https://github.com/scipy/scipy)
-5. 🗣 Commented on [#13492](https://github.com/ray-project/ray/issues/13492) in [ray-project/ray](https://github.com/ray-project/ray)
+1. ❌ Closed PR [#24](https://github.com/cuspaceflight/CamPyRoS/pull/24) in [cuspaceflight/CamPyRoS](https://github.com/cuspaceflight/CamPyRoS)
+2. 🗣 Commented on [#24](https://github.com/cuspaceflight/CamPyRoS/issues/24) in [cuspaceflight/CamPyRoS](https://github.com/cuspaceflight/CamPyRoS)
+3. 💪 Opened PR [#24](https://github.com/cuspaceflight/CamPyRoS/pull/24) in [cuspaceflight/CamPyRoS](https://github.com/cuspaceflight/CamPyRoS)
+4. 🎉 Merged PR [#23](https://github.com/CUSF-Simulation/CamPyRoS/pull/23) in [CUSF-Simulation/CamPyRoS](https://github.com/CUSF-Simulation/CamPyRoS)
+5. 💪 Opened PR [#23](https://github.com/CUSF-Simulation/CamPyRoS/pull/23) in [CUSF-Simulation/CamPyRoS](https://github.com/CUSF-Simulation/CamPyRoS)
 <!--END_SECTION:activity-->
