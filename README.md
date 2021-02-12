@@ -24,15 +24,9 @@ The main projects I am working on at the moment are a fully featured rocket traj
 - Use of live wind data
 - Variable mass and moments of inertia models
 
-The first release can be found [here](https://github.com/CUSF-Simulation/CamPyRoS). At the moment I am working on adding stochastic variability to the wind data by generating a guassian difference profile from historic records and forcasts.
+The first release can be found [here](https://github.com/CUSF-Simulation/CamPyRoS). At the moment I am working on adding stochastic variability to the wind data by generating a guassian difference profile from historic records and forcasts. I also recently published [narpy](https://pypi.org/project/narpy/) a NASA AMES file Reader in Python which I developed as a required dependency for the wind analysis.
 
 On top of my course I am currently leanring about statistical modeling of dynamic systems and dipping my toes in with atmospheric physics to the end of understanding climate change better.
-
-My goals for 2021 are:
-- Finish the rocket simulation and write a paper about it
-- Do well on my course
-- Improve my understanding and actions to help global warming
-- Increasing my experiance of research and industrial applications of my skills
 
 You can email me at [jagoosw@protonmail.com](mail:jagoosw@protonmail.com) and find me on [Twitter @jagosw](https://twitter.com/jagosw) which I seem to mainly use for contesting peoples false claims about COVID and climate change.
 
