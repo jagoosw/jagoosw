@@ -24,7 +24,7 @@ The main projects I am working on at the moment are a fully featured rocket traj
 - Use of live wind data
 - Variable mass and moments of inertia models
 
-The first release can be found [here](https://github.com/CUSF-Simulation/CamPyRoS). At the moment I am working on adding stochastic variability to the wind data by generating a guassian difference profile from historic records and forcasts. I also recently published [narpy](https://pypi.org/project/narpy/) a NASA AMES file Reader in Python which I developed as a required dependency for the wind analysis.
+The first release can be found [here](https://github.com/CUSF-Simulation/CamPyRoS). At the moment I am working on adding stochastic variability to the wind data by generating a guassian difference profile from historic records and forcasts. I also recently published [narpy](https://pypi.org/project/narpy/) a NASA AMES file Reader in Python which I developed as a required dependency for the wind analysis and am currently working on a library, [gfspy](https://github.com/jagoosw/gfspy) to extract GFS weather forcasts without using the iris library as it has proved to fail often when trying to use it on multiple platforms.
 
 On top of my course I am currently leanring about statistical modeling of dynamic systems and dipping my toes in with atmospheric physics to the end of understanding climate change better.
 
