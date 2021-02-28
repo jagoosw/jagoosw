@@ -37,9 +37,9 @@ Some stats:
 
 My recent activity (again excluding private repos):
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#27](https://github.com/cuspaceflight/CamPyRoS/pull/27) in [cuspaceflight/CamPyRoS](https://github.com/cuspaceflight/CamPyRoS)
-2. 🎉 Merged PR [#26](https://github.com/cuspaceflight/CamPyRoS/pull/26) in [cuspaceflight/CamPyRoS](https://github.com/cuspaceflight/CamPyRoS)
-3. 💪 Opened PR [#26](https://github.com/cuspaceflight/CamPyRoS/pull/26) in [cuspaceflight/CamPyRoS](https://github.com/cuspaceflight/CamPyRoS)
-4. 🗣 Commented on [#25](https://github.com/cuspaceflight/CamPyRoS/issues/25) in [cuspaceflight/CamPyRoS](https://github.com/cuspaceflight/CamPyRoS)
-5. ❌ Closed PR [#24](https://github.com/cuspaceflight/CamPyRoS/pull/24) in [cuspaceflight/CamPyRoS](https://github.com/cuspaceflight/CamPyRoS)
+1. 🎉 Merged PR [#27](https://github.com/cuspaceflight/CamPyRoS/pull/27) in [cuspaceflight/CamPyRoS](https://github.com/cuspaceflight/CamPyRoS)
+2. 💪 Opened PR [#27](https://github.com/cuspaceflight/CamPyRoS/pull/27) in [cuspaceflight/CamPyRoS](https://github.com/cuspaceflight/CamPyRoS)
+3. 🎉 Merged PR [#26](https://github.com/cuspaceflight/CamPyRoS/pull/26) in [cuspaceflight/CamPyRoS](https://github.com/cuspaceflight/CamPyRoS)
+4. 💪 Opened PR [#26](https://github.com/cuspaceflight/CamPyRoS/pull/26) in [cuspaceflight/CamPyRoS](https://github.com/cuspaceflight/CamPyRoS)
+5. 🗣 Commented on [#25](https://github.com/cuspaceflight/CamPyRoS/issues/25) in [cuspaceflight/CamPyRoS](https://github.com/cuspaceflight/CamPyRoS)
 <!--END_SECTION:activity-->
