@@ -37,9 +37,9 @@ Some stats:
 
 My recent activity (not including commits etc):
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#9145](https://github.com/pypa/warehouse/issues/9145) in [pypa/warehouse](https://github.com/pypa/warehouse)
-2. 🎉 Merged PR [#27](https://github.com/cuspaceflight/CamPyRoS/pull/27) in [cuspaceflight/CamPyRoS](https://github.com/cuspaceflight/CamPyRoS)
-3. 💪 Opened PR [#27](https://github.com/cuspaceflight/CamPyRoS/pull/27) in [cuspaceflight/CamPyRoS](https://github.com/cuspaceflight/CamPyRoS)
-4. 🎉 Merged PR [#26](https://github.com/cuspaceflight/CamPyRoS/pull/26) in [cuspaceflight/CamPyRoS](https://github.com/cuspaceflight/CamPyRoS)
-5. 💪 Opened PR [#26](https://github.com/cuspaceflight/CamPyRoS/pull/26) in [cuspaceflight/CamPyRoS](https://github.com/cuspaceflight/CamPyRoS)
+1. 🎉 Merged PR [#25](https://github.com/cuspaceflight/CamPyRoS/pull/25) in [cuspaceflight/CamPyRoS](https://github.com/cuspaceflight/CamPyRoS)
+2. ❗️ Opened issue [#9145](https://github.com/pypa/warehouse/issues/9145) in [pypa/warehouse](https://github.com/pypa/warehouse)
+3. 🎉 Merged PR [#27](https://github.com/cuspaceflight/CamPyRoS/pull/27) in [cuspaceflight/CamPyRoS](https://github.com/cuspaceflight/CamPyRoS)
+4. 💪 Opened PR [#27](https://github.com/cuspaceflight/CamPyRoS/pull/27) in [cuspaceflight/CamPyRoS](https://github.com/cuspaceflight/CamPyRoS)
+5. 🎉 Merged PR [#26](https://github.com/cuspaceflight/CamPyRoS/pull/26) in [cuspaceflight/CamPyRoS](https://github.com/cuspaceflight/CamPyRoS)
 <!--END_SECTION:activity-->
