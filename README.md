@@ -24,7 +24,7 @@ The main projects I am working on at the moment are a fully featured rocket traj
 - Use of live wind data
 - Variable mass and moments of inertia models
 
-The first release can be found [here](https://github.com/CUSF-Simulation/CamPyRoS). At the moment I am working on adding stochastic variability to the wind data by generating a guassian difference profile from historic records and forcasts. I also recently published [narpy](https://pypi.org/project/narpy/) a NASA AMES file Reader in Python which I developed as a required dependency for the wind analysis and am currently working on a library, [gfspy](https://github.com/jagoosw/gfspy), to extract GFS weather forcasts without using the iris library as it has proved to fail often when trying to use it on multiple platforms.
+The first release can be found [here](https://github.com/CUSF-Simulation/CamPyRoS). At the moment I am working on adding stochastic variability to the wind data by generating a guassian difference profile from historic records and forcasts. I also recently published [narpy](https://pypi.org/project/narpy/) a NASA AMES file Reader in Python which I developed as a required dependency for the wind analysis and am currently working on a library, [getgfs](https://github.com/jagoosw/getgfs), to extract GFS weather forcasts without using the iris library as it has proved to fail often when trying to use it on multiple platforms.
 
 On top of my course I am currently leanring about statistical modeling of dynamic systems and dipping my toes in with atmospheric physics to the end of understanding climate change better.
 
@@ -35,7 +35,7 @@ Some stats:
 ![Github stats](https://github-readme-stats.vercel.app/api?username=jagoosw&count_private=true&show_icons=true&theme=radical&hide_title=true&hide_border=true)
 [](https://komarev.com/ghpvc/?username=jagoosw)
 
-My recent activity (again excluding private repos):
+My recent activity (not including commits etc):
 <!--START_SECTION:activity-->
 1. ❗️ Opened issue [#9145](https://github.com/pypa/warehouse/issues/9145) in [pypa/warehouse](https://github.com/pypa/warehouse)
 2. 🎉 Merged PR [#27](https://github.com/cuspaceflight/CamPyRoS/pull/27) in [cuspaceflight/CamPyRoS](https://github.com/cuspaceflight/CamPyRoS)
