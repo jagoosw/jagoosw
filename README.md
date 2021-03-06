@@ -28,7 +28,7 @@ The first release can be found [here](https://github.com/CUSF-Simulation/CamPyRo
 
 On top of my course I am currently leanring about statistical modeling of dynamic systems and dipping my toes in with atmospheric physics to the end of understanding climate change better.
 
-You can email me at [jagoosw@protonmail.com](mail:jagoosw@protonmail.com) and find me on [Twitter @jagosw](https://twitter.com/jagosw) which I seem to mainly use for contesting peoples false claims about COVID and climate change.
+You can email me at [jagoosw@protonmail.com](mail:jagoosw@protonmail.com).
 
 Some stats:
 
