@@ -37,9 +37,9 @@ Some stats:
 
 My recent activity (not including commits etc):
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13492](https://github.com/ray-project/ray/issues/13492) in [ray-project/ray](https://github.com/ray-project/ray)
+1. ❗️ Opened issue [#2923](https://github.com/streamlit/streamlit/issues/2923) in [streamlit/streamlit](https://github.com/streamlit/streamlit)
 2. 🗣 Commented on [#13492](https://github.com/ray-project/ray/issues/13492) in [ray-project/ray](https://github.com/ray-project/ray)
-3. 🎉 Merged PR [#25](https://github.com/cuspaceflight/CamPyRoS/pull/25) in [cuspaceflight/CamPyRoS](https://github.com/cuspaceflight/CamPyRoS)
-4. ❗️ Opened issue [#9145](https://github.com/pypa/warehouse/issues/9145) in [pypa/warehouse](https://github.com/pypa/warehouse)
-5. 🎉 Merged PR [#27](https://github.com/cuspaceflight/CamPyRoS/pull/27) in [cuspaceflight/CamPyRoS](https://github.com/cuspaceflight/CamPyRoS)
+3. 🗣 Commented on [#13492](https://github.com/ray-project/ray/issues/13492) in [ray-project/ray](https://github.com/ray-project/ray)
+4. 🎉 Merged PR [#25](https://github.com/cuspaceflight/CamPyRoS/pull/25) in [cuspaceflight/CamPyRoS](https://github.com/cuspaceflight/CamPyRoS)
+5. ❗️ Opened issue [#9145](https://github.com/pypa/warehouse/issues/9145) in [pypa/warehouse](https://github.com/pypa/warehouse)
 <!--END_SECTION:activity-->
