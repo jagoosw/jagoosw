@@ -39,7 +39,7 @@ My recent activity (not including commits etc):
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#2923](https://github.com/streamlit/streamlit/issues/2923) in [streamlit/streamlit](https://github.com/streamlit/streamlit)
 2. 🗣 Commented on [#2923](https://github.com/streamlit/streamlit/issues/2923) in [streamlit/streamlit](https://github.com/streamlit/streamlit)
-3. ❗️ Opened issue [#2923](https://github.com/streamlit/streamlit/issues/2923) in [streamlit/streamlit](https://github.com/streamlit/streamlit)
-4. 🗣 Commented on [#13492](https://github.com/ray-project/ray/issues/13492) in [ray-project/ray](https://github.com/ray-project/ray)
+3. 🗣 Commented on [#2923](https://github.com/streamlit/streamlit/issues/2923) in [streamlit/streamlit](https://github.com/streamlit/streamlit)
+4. ❗️ Opened issue [#2923](https://github.com/streamlit/streamlit/issues/2923) in [streamlit/streamlit](https://github.com/streamlit/streamlit)
 5. 🗣 Commented on [#13492](https://github.com/ray-project/ray/issues/13492) in [ray-project/ray](https://github.com/ray-project/ray)
 <!--END_SECTION:activity-->
