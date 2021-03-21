@@ -38,8 +38,8 @@ Some stats:
 My recent activity (not including commits etc):
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#9145](https://github.com/pypa/warehouse/issues/9145) in [pypa/warehouse](https://github.com/pypa/warehouse)
-2. 🗣 Commented on [#2923](https://github.com/streamlit/streamlit/issues/2923) in [streamlit/streamlit](https://github.com/streamlit/streamlit)
+2. 🗣 Commented on [#9145](https://github.com/pypa/warehouse/issues/9145) in [pypa/warehouse](https://github.com/pypa/warehouse)
 3. 🗣 Commented on [#2923](https://github.com/streamlit/streamlit/issues/2923) in [streamlit/streamlit](https://github.com/streamlit/streamlit)
 4. 🗣 Commented on [#2923](https://github.com/streamlit/streamlit/issues/2923) in [streamlit/streamlit](https://github.com/streamlit/streamlit)
-5. ❗️ Opened issue [#2923](https://github.com/streamlit/streamlit/issues/2923) in [streamlit/streamlit](https://github.com/streamlit/streamlit)
+5. 🗣 Commented on [#2923](https://github.com/streamlit/streamlit/issues/2923) in [streamlit/streamlit](https://github.com/streamlit/streamlit)
 <!--END_SECTION:activity-->
