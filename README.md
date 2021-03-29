@@ -37,9 +37,9 @@ Some stats:
 
 My recent activity (not including commits etc):
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#977](https://github.com/pypa/pypi-support/issues/977) in [pypa/pypi-support](https://github.com/pypa/pypi-support)
-2. 🗣 Commented on [#9145](https://github.com/pypa/warehouse/issues/9145) in [pypa/warehouse](https://github.com/pypa/warehouse)
+1. 🗣 Commented on [#95](https://github.com/tuxedocomputers/tuxedo-control-center/issues/95) in [tuxedocomputers/tuxedo-control-center](https://github.com/tuxedocomputers/tuxedo-control-center)
+2. ❗️ Opened issue [#977](https://github.com/pypa/pypi-support/issues/977) in [pypa/pypi-support](https://github.com/pypa/pypi-support)
 3. 🗣 Commented on [#9145](https://github.com/pypa/warehouse/issues/9145) in [pypa/warehouse](https://github.com/pypa/warehouse)
-4. 🗣 Commented on [#2923](https://github.com/streamlit/streamlit/issues/2923) in [streamlit/streamlit](https://github.com/streamlit/streamlit)
+4. 🗣 Commented on [#9145](https://github.com/pypa/warehouse/issues/9145) in [pypa/warehouse](https://github.com/pypa/warehouse)
 5. 🗣 Commented on [#2923](https://github.com/streamlit/streamlit/issues/2923) in [streamlit/streamlit](https://github.com/streamlit/streamlit)
 <!--END_SECTION:activity-->
