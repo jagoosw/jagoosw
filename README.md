@@ -43,3 +43,4 @@ My recent activity (not including commits etc):
 4. 🗣 Commented on [#9145](https://github.com/pypa/warehouse/issues/9145) in [pypa/warehouse](https://github.com/pypa/warehouse)
 5. 🗣 Commented on [#2923](https://github.com/streamlit/streamlit/issues/2923) in [streamlit/streamlit](https://github.com/streamlit/streamlit)
 <!--END_SECTION:activity-->
+[![Update README](https://github.com/jagoosw/jagoosw/actions/workflows/update-readme.yml/badge.svg)](https://github.com/jagoosw/jagoosw/actions/workflows/update-readme.yml)
