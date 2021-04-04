@@ -38,9 +38,9 @@ Some stats:
 My recent activity (not including commits etc):
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#696](https://github.com/openmediavault/openmediavault/issues/696) in [openmediavault/openmediavault](https://github.com/openmediavault/openmediavault)
-2. 🗣 Commented on [#95](https://github.com/tuxedocomputers/tuxedo-control-center/issues/95) in [tuxedocomputers/tuxedo-control-center](https://github.com/tuxedocomputers/tuxedo-control-center)
-3. ❗️ Opened issue [#977](https://github.com/pypa/pypi-support/issues/977) in [pypa/pypi-support](https://github.com/pypa/pypi-support)
-4. 🗣 Commented on [#9145](https://github.com/pypa/warehouse/issues/9145) in [pypa/warehouse](https://github.com/pypa/warehouse)
+2. 🗣 Commented on [#696](https://github.com/openmediavault/openmediavault/issues/696) in [openmediavault/openmediavault](https://github.com/openmediavault/openmediavault)
+3. 🗣 Commented on [#95](https://github.com/tuxedocomputers/tuxedo-control-center/issues/95) in [tuxedocomputers/tuxedo-control-center](https://github.com/tuxedocomputers/tuxedo-control-center)
+4. ❗️ Opened issue [#977](https://github.com/pypa/pypi-support/issues/977) in [pypa/pypi-support](https://github.com/pypa/pypi-support)
 5. 🗣 Commented on [#9145](https://github.com/pypa/warehouse/issues/9145) in [pypa/warehouse](https://github.com/pypa/warehouse)
 <!--END_SECTION:activity-->
 [![Update README](https://github.com/jagoosw/jagoosw/actions/workflows/update-readme.yml/badge.svg)](https://github.com/jagoosw/jagoosw/actions/workflows/update-readme.yml)
