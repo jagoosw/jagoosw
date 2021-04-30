@@ -37,10 +37,10 @@ Some stats:
 
 My recent activity (not including commits etc):
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#29](https://github.com/cuspaceflight/CamPyRoS/issues/29) in [cuspaceflight/CamPyRoS](https://github.com/cuspaceflight/CamPyRoS)
-2. ❗️ Opened issue [#29](https://github.com/cuspaceflight/CamPyRoS/issues/29) in [cuspaceflight/CamPyRoS](https://github.com/cuspaceflight/CamPyRoS)
-3. ❗️ Opened issue [#28](https://github.com/cuspaceflight/CamPyRoS/issues/28) in [cuspaceflight/CamPyRoS](https://github.com/cuspaceflight/CamPyRoS)
-4. ❗️ Opened issue [#99](https://github.com/tuxedocomputers/tuxedo-control-center/issues/99) in [tuxedocomputers/tuxedo-control-center](https://github.com/tuxedocomputers/tuxedo-control-center)
-5. 🗣 Commented on [#696](https://github.com/openmediavault/openmediavault/issues/696) in [openmediavault/openmediavault](https://github.com/openmediavault/openmediavault)
+1. 💪 Opened PR [#30](https://github.com/cuspaceflight/CamPyRoS/pull/30) in [cuspaceflight/CamPyRoS](https://github.com/cuspaceflight/CamPyRoS)
+2. 🗣 Commented on [#29](https://github.com/cuspaceflight/CamPyRoS/issues/29) in [cuspaceflight/CamPyRoS](https://github.com/cuspaceflight/CamPyRoS)
+3. ❗️ Opened issue [#29](https://github.com/cuspaceflight/CamPyRoS/issues/29) in [cuspaceflight/CamPyRoS](https://github.com/cuspaceflight/CamPyRoS)
+4. ❗️ Opened issue [#28](https://github.com/cuspaceflight/CamPyRoS/issues/28) in [cuspaceflight/CamPyRoS](https://github.com/cuspaceflight/CamPyRoS)
+5. ❗️ Opened issue [#99](https://github.com/tuxedocomputers/tuxedo-control-center/issues/99) in [tuxedocomputers/tuxedo-control-center](https://github.com/tuxedocomputers/tuxedo-control-center)
 <!--END_SECTION:activity-->
 [![Update README](https://github.com/jagoosw/jagoosw/actions/workflows/update-readme.yml/badge.svg)](https://github.com/jagoosw/jagoosw/actions/workflows/update-readme.yml)
