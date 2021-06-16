@@ -37,10 +37,10 @@ Some stats:
 
 My recent activity (not including commits etc):
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#99](https://github.com/tuxedocomputers/tuxedo-control-center/issues/99) in [tuxedocomputers/tuxedo-control-center](https://github.com/tuxedocomputers/tuxedo-control-center)
-2. 🎉 Merged PR [#30](https://github.com/cuspaceflight/CamPyRoS/pull/30) in [cuspaceflight/CamPyRoS](https://github.com/cuspaceflight/CamPyRoS)
-3. 💪 Opened PR [#30](https://github.com/cuspaceflight/CamPyRoS/pull/30) in [cuspaceflight/CamPyRoS](https://github.com/cuspaceflight/CamPyRoS)
-4. 🗣 Commented on [#29](https://github.com/cuspaceflight/CamPyRoS/issues/29) in [cuspaceflight/CamPyRoS](https://github.com/cuspaceflight/CamPyRoS)
-5. ❗️ Opened issue [#29](https://github.com/cuspaceflight/CamPyRoS/issues/29) in [cuspaceflight/CamPyRoS](https://github.com/cuspaceflight/CamPyRoS)
+1. ❗️ Opened issue [#34](https://github.com/brentvollebregt/hit-counter/issues/34) in [brentvollebregt/hit-counter](https://github.com/brentvollebregt/hit-counter)
+2. 🗣 Commented on [#99](https://github.com/tuxedocomputers/tuxedo-control-center/issues/99) in [tuxedocomputers/tuxedo-control-center](https://github.com/tuxedocomputers/tuxedo-control-center)
+3. 🎉 Merged PR [#30](https://github.com/cuspaceflight/CamPyRoS/pull/30) in [cuspaceflight/CamPyRoS](https://github.com/cuspaceflight/CamPyRoS)
+4. 💪 Opened PR [#30](https://github.com/cuspaceflight/CamPyRoS/pull/30) in [cuspaceflight/CamPyRoS](https://github.com/cuspaceflight/CamPyRoS)
+5. 🗣 Commented on [#29](https://github.com/cuspaceflight/CamPyRoS/issues/29) in [cuspaceflight/CamPyRoS](https://github.com/cuspaceflight/CamPyRoS)
 <!--END_SECTION:activity-->
 [![Update README](https://github.com/jagoosw/jagoosw/actions/workflows/update-readme.yml/badge.svg)](https://github.com/jagoosw/jagoosw/actions/workflows/update-readme.yml)
