@@ -13,6 +13,9 @@ Some stats:
 
 And some of the things I've been doing recently (not including private repos):
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#980](https://github.com/JuliaImages/Images.jl/pull/980) in [JuliaImages/Images.jl](https://github.com/JuliaImages/Images.jl)
+2. ❗️ Opened issue [#34](https://github.com/brentvollebregt/hit-counter/issues/34) in [brentvollebregt/hit-counter](https://github.com/brentvollebregt/hit-counter)
+<!--END_SECTION:activity-->
 
 
 [![Update README](https://github.com/jagoosw/jagoosw/actions/workflows/update-readme.yml/badge.svg)](https://github.com/jagoosw/jagoosw/actions/workflows/update-readme.yml)
