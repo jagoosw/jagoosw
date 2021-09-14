@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm an astrophysics student at the [University of Cambridge](https://www.ast.cam.ac.uk/students/current.undergraduates/part.ii.astrophysics) with a wide variety of interest.
+I'm currently a summer researcher and astrophysics student at the [University of Cambridge](https://www.ast.cam.ac.uk/students/current.undergraduates/part.ii.astrophysics) with a wide variety of interest.
+
+This summer I have been investigating the potential growth of Kelp in the North Atlantic for the purpose of carbon sequestration. Code coming soon.
 
 You can email me at [jagoosw@protonmail.com](mail:jagoosw@protonmail.com).
 
