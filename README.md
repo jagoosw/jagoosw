@@ -14,7 +14,7 @@ Some stats:
 And some of the things I've been doing recently (not including private repos):
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#15](https://github.com/JuliaImages/ImageBase.jl/issues/15) in [JuliaImages/ImageBase.jl](https://github.com/JuliaImages/ImageBase.jl)
-2. 💪 Opened PR [#15](https://github.com/JuliaImages/ImageBase.jl/pull/15) in [JuliaImages/ImageBase.jl](https://github.com/JuliaImages/ImageBase.jl)
+2. 🗣 Commented on [#15](https://github.com/JuliaImages/ImageBase.jl/issues/15) in [JuliaImages/ImageBase.jl](https://github.com/JuliaImages/ImageBase.jl)
 <!--END_SECTION:activity-->
 
 
