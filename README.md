@@ -1,10 +1,10 @@
-## Hi, I'm Jago and this is some of my work
-
+## Hi, I'm Jago
+![climate stripes for the north atlantic](stripes.png)
 I'm currently a summer researcher and astrophysics student at the [University of Cambridge](https://cam.ac.uk) with a wide variety of interest.
 
 This summer I have been investigating the potential growth of Kelp in the North Atlantic for the purpose of carbon sequestration. Code coming soon.
 
-You can email me at [jagoosw@protonmail.com](mail:jagoosw@protonmail.com).
+You may be interested in my slightly more aesthetically pleasing [website](https://jagosw.com), even if it is just as outdated. You can also email me at [jagoosw@protonmail.com](mail:jagoosw@protonmail.com).
 
 Some stats:
 
@@ -16,3 +16,4 @@ And some of the things I've been doing recently (not including private repos):
 
 
 [![Update README](https://github.com/jagoosw/jagoosw/actions/workflows/update-readme.yml/badge.svg)](https://github.com/jagoosw/jagoosw/actions/workflows/update-readme.yml)
+
