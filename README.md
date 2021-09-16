@@ -1,5 +1,5 @@
 ## Hi, I'm Jago
-![climate stripes for the north atlantic](stripes.png)
+![climate stripes for the north atlantic](stripes.jpg)
 I'm currently a summer researcher and astrophysics student at the [University of Cambridge](https://cam.ac.uk) with a wide variety of interest.
 
 This summer I have been investigating the potential growth of Kelp in the North Atlantic for the purpose of carbon sequestration. Code coming soon.
