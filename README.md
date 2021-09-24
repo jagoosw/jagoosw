@@ -19,4 +19,5 @@ And some of the things I've been doing recently (not including private repos):
 
 
 [![Update README](https://github.com/jagoosw/jagoosw/actions/workflows/update-readme.yml/badge.svg)](https://github.com/jagoosw/jagoosw/actions/workflows/update-readme.yml)
+[Get GitHub Pro for free if you're a student](https://education.github.com/pack)
 
