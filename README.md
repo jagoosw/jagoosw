@@ -13,8 +13,8 @@ Some stats:
 
 And some of the things I've been doing recently (not including private repos):
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/jagoosw/Kelp.jl/pull/3) in [jagoosw/Kelp.jl](https://github.com/jagoosw/Kelp.jl)
-2. 🗣 Commented on [#16](https://github.com/JuliaImages/ImageBase.jl/issues/16) in [JuliaImages/ImageBase.jl](https://github.com/JuliaImages/ImageBase.jl)
+1. 🎉 Merged PR [#3](https://github.com/jagoosw/SugarKelp.jl/pull/3) in [jagoosw/SugarKelp.jl](https://github.com/jagoosw/SugarKelp.jl)
+2. 💪 Opened PR [#3](https://github.com/jagoosw/Kelp.jl/pull/3) in [jagoosw/Kelp.jl](https://github.com/jagoosw/Kelp.jl)
 <!--END_SECTION:activity-->
 
 
