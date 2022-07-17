@@ -1,10 +1,6 @@
 ## Hi, I'm Jago
-![climate stripes for the north atlantic](stripes.jpg)
-I'm currently a summer researcher and astrophysics student at the [University of Cambridge](https://cam.ac.uk) with a wide variety of interest.
 
-This summer I have been investigating the potential growth of Kelp in the North Atlantic for the purpose of carbon sequestration. Code coming soon.
-
-You may be interested in my slightly more aesthetically pleasing [website](https://jagosw.com), even if it is just as outdated. You can also email me at [jagoosw@protonmail.com](mail:jagoosw@protonmail.com).
+I am currently working over the summer in the [Ocean Dynamics Group](http://www.damtp.cam.ac.uk/user/jrt51/) at DAMPT, University of Cambridge, to further investigate kelp growth (in the contex of its ability to sequester carbon) with coupled biogeochemical and physics models. This builds upon my work from last summer where I implimented a model of _Saccharina Latissima_ in Julia ([SugarKelp.jl](https://github.com/jagoosw/SugarKelp.jl)) which I then passivly forced with ocean state estimates from the North Atlantic. From this we determined which areas of the open ocean in the North Atlantic have suitable conditions for the kelp to grow (as its natural habitat is rocky coastal waters). Our full results can be found [here](https://www.frontiersin.org/articles/10.3389/fmars.2021.793977/full). 
 
 Some stats:
 
