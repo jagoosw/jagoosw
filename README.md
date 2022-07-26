@@ -9,8 +9,8 @@ Some stats:
 
 And some of the things I've been doing recently (not including private repos):
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/jagoosw/SugarKelp.jl/pull/3) in [jagoosw/SugarKelp.jl](https://github.com/jagoosw/SugarKelp.jl)
-2. 💪 Opened PR [#3](https://github.com/jagoosw/Kelp.jl/pull/3) in [jagoosw/Kelp.jl](https://github.com/jagoosw/Kelp.jl)
+1. 🗣 Commented on [#2682](https://github.com/CliMA/Oceananigans.jl/issues/2682) in [CliMA/Oceananigans.jl](https://github.com/CliMA/Oceananigans.jl)
+2. 💪 Opened PR [#2682](https://github.com/CliMA/Oceananigans.jl/pull/2682) in [CliMA/Oceananigans.jl](https://github.com/CliMA/Oceananigans.jl)
 <!--END_SECTION:activity-->
 
 
