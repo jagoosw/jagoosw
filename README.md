@@ -9,8 +9,8 @@ Some stats:
 
 And some of the things I've been doing recently (not including private repos):
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#6](https://github.com/jagoosw/SugarKelp.jl/issues/6) in [jagoosw/SugarKelp.jl](https://github.com/jagoosw/SugarKelp.jl)
-2. 🗣 Commented on [#2682](https://github.com/CliMA/Oceananigans.jl/issues/2682) in [CliMA/Oceananigans.jl](https://github.com/CliMA/Oceananigans.jl)
+1. 🗣 Commented on [#2682](https://github.com/CliMA/Oceananigans.jl/issues/2682) in [CliMA/Oceananigans.jl](https://github.com/CliMA/Oceananigans.jl)
+2. ❗️ Opened issue [#6](https://github.com/jagoosw/SugarKelp.jl/issues/6) in [jagoosw/SugarKelp.jl](https://github.com/jagoosw/SugarKelp.jl)
 <!--END_SECTION:activity-->
 
 
