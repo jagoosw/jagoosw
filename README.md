@@ -9,7 +9,7 @@ Some stats:
 
 And some of the things I've been doing recently (not including private repos):
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2700](https://github.com/CliMA/Oceananigans.jl/issues/2700) in [CliMA/Oceananigans.jl](https://github.com/CliMA/Oceananigans.jl)
+1. 🗣 Commented on [#66871](https://github.com/JuliaRegistries/General/issues/66871) in [JuliaRegistries/General](https://github.com/JuliaRegistries/General)
 2. 🗣 Commented on [#2700](https://github.com/CliMA/Oceananigans.jl/issues/2700) in [CliMA/Oceananigans.jl](https://github.com/CliMA/Oceananigans.jl)
 <!--END_SECTION:activity-->
 
