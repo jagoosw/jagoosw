@@ -9,8 +9,8 @@ Some stats:
 
 And some of the things I've been doing recently (not including private repos):
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7](https://github.com/jagoosw/getgfs/issues/7) in [jagoosw/getgfs](https://github.com/jagoosw/getgfs)
-2. 🗣 Commented on [#66871](https://github.com/JuliaRegistries/General/issues/66871) in [JuliaRegistries/General](https://github.com/JuliaRegistries/General)
+1. 💪 Opened PR [#2724](https://github.com/CliMA/Oceananigans.jl/pull/2724) in [CliMA/Oceananigans.jl](https://github.com/CliMA/Oceananigans.jl)
+2. 🗣 Commented on [#2700](https://github.com/CliMA/Oceananigans.jl/issues/2700) in [CliMA/Oceananigans.jl](https://github.com/CliMA/Oceananigans.jl)
 <!--END_SECTION:activity-->
 
 
