@@ -9,8 +9,8 @@ Some stats:
 
 And some of the things I've been doing recently (not including private repos):
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2750](https://github.com/CliMA/Oceananigans.jl/pull/2750) in [CliMA/Oceananigans.jl](https://github.com/CliMA/Oceananigans.jl)
-2. 🗣 Commented on [#2733](https://github.com/CliMA/Oceananigans.jl/issues/2733) in [CliMA/Oceananigans.jl](https://github.com/CliMA/Oceananigans.jl)
+1. ❗️ Opened issue [#46908](https://github.com/JuliaLang/julia/issues/46908) in [JuliaLang/julia](https://github.com/JuliaLang/julia)
+2. 💪 Opened PR [#2750](https://github.com/CliMA/Oceananigans.jl/pull/2750) in [CliMA/Oceananigans.jl](https://github.com/CliMA/Oceananigans.jl)
 <!--END_SECTION:activity-->
 
 
