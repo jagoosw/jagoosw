@@ -1,6 +1,6 @@
-## Hi, I'm Jago
+## Hello! I'm Jago
 
-I am currently working over the summer in the [Ocean Dynamics Group](http://www.damtp.cam.ac.uk/user/jrt51/) at DAMPT, University of Cambridge, to further investigate kelp growth (in the contex of its ability to sequester carbon) with coupled biogeochemical and physics models. This builds upon my work from last summer where I implimented a model of _Saccharina Latissima_ in Julia ([SugarKelp.jl](https://github.com/jagoosw/SugarKelp.jl)) which I then passivly forced with ocean state estimates from the North Atlantic. From this we determined which areas of the open ocean in the North Atlantic have suitable conditions for the kelp to grow (as its natural habitat is rocky coastal waters). Our full results can be found [here](https://www.frontiersin.org/articles/10.3389/fmars.2021.793977/full). 
+I'm a PhD student attempting to quantify the fate of carbon in blue carbon systems such as kelp forests to work out how they could be enhanced to sequester more carbon, and to help better understand how these biological systems effect the broader ocean carbon cycle. I work in the <a href="https://www.damtp.cam.ac.uk/user/jrt51/" class="emph">Ocean Dynamics group</a> in the Department of Applied Mathematics and Theoretical Physics at the University of Cambridge, supervised by Professor John Taylor.
 
 Some stats:
 
