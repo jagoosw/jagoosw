@@ -4,8 +4,9 @@ I'm a PhD student attempting to quantify the fate of carbon in blue carbon syste
 
 Some stats:
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=jagoosw&count_private=true&show_icons=true&theme=radical&hide_title=true&hide_border=true&text_color=d8dee9&icon_color=8fbcbb&bg_color=2e3440&title_color=a3be8c)
-[](https://komarev.com/ghpvc/?username=jagoosw&color=2e3440)
+![](https://raw.githubusercontent.com/jagoosw/jagoosw/main/profile-summary-card-output/nord_dark/0-profile-details.svg)
+![](https://raw.githubusercontent.com/jagoosw/jagoosw/main/profile-summary-card-output/nord_dark/3-stats.svg)
+![](https://raw.githubusercontent.com/jagoosw/jagoosw/main/profile-summary-card-output/nord_dark/4-productive-time.svg)
 
 And some of the things I've been doing recently (not including private repos):
 <!--START_SECTION:activity-->
