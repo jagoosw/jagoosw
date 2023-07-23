@@ -12,11 +12,11 @@ Some stats:
 
 And some of the things I've been doing recently (not including private repos):
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5669](https://github.com/openjournals/joss-reviews/issues/5669#issuecomment-1645739446) in [openjournals/joss-reviews](https://github.com/openjournals/joss-reviews)
-2. 🗣 Commented on [#5669](https://github.com/openjournals/joss-reviews/issues/5669#issuecomment-1645697358) in [openjournals/joss-reviews](https://github.com/openjournals/joss-reviews)
-3. 🗣 Commented on [#3189](https://github.com/CliMA/Oceananigans.jl/issues/3189#issuecomment-1641975792) in [CliMA/Oceananigans.jl](https://github.com/CliMA/Oceananigans.jl)
-4. 🔒 Closed issue [#3189](https://github.com/CliMA/Oceananigans.jl/issues/3189) in [CliMA/Oceananigans.jl](https://github.com/CliMA/Oceananigans.jl)
-5. 🗣 Commented on [#3189](https://github.com/CliMA/Oceananigans.jl/issues/3189#issuecomment-1638382659) in [CliMA/Oceananigans.jl](https://github.com/CliMA/Oceananigans.jl)
+1. 🗣 Commented on [#5669](https://github.com/openjournals/joss-reviews/issues/5669#issuecomment-1646892273) in [openjournals/joss-reviews](https://github.com/openjournals/joss-reviews)
+2. 🗣 Commented on [#5669](https://github.com/openjournals/joss-reviews/issues/5669#issuecomment-1646892133) in [openjournals/joss-reviews](https://github.com/openjournals/joss-reviews)
+3. 🗣 Commented on [#5669](https://github.com/openjournals/joss-reviews/issues/5669#issuecomment-1646891475) in [openjournals/joss-reviews](https://github.com/openjournals/joss-reviews)
+4. 🗣 Commented on [#5669](https://github.com/openjournals/joss-reviews/issues/5669#issuecomment-1645739446) in [openjournals/joss-reviews](https://github.com/openjournals/joss-reviews)
+5. 🗣 Commented on [#5669](https://github.com/openjournals/joss-reviews/issues/5669#issuecomment-1645697358) in [openjournals/joss-reviews](https://github.com/openjournals/joss-reviews)
 <!--END_SECTION:activity-->
 
 
