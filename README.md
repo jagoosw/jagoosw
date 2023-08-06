@@ -12,11 +12,11 @@ Some stats:
 
 And some of the things I've been doing recently (not including private repos):
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#39](https://github.com/CliMA/ClimaOcean.jl/pull/39) in [CliMA/ClimaOcean.jl](https://github.com/CliMA/ClimaOcean.jl)
-2. 🗣 Commented on [#127](https://github.com/OceanBioME/OceanBioME.jl/pull/127#issuecomment-1666150360) in [OceanBioME/OceanBioME.jl](https://github.com/OceanBioME/OceanBioME.jl)
-3. 🗣 Commented on [#127](https://github.com/OceanBioME/OceanBioME.jl/pull/127#issuecomment-1666147749) in [OceanBioME/OceanBioME.jl](https://github.com/OceanBioME/OceanBioME.jl)
-4. 💪 Opened PR [#127](https://github.com/OceanBioME/OceanBioME.jl/pull/127) in [OceanBioME/OceanBioME.jl](https://github.com/OceanBioME/OceanBioME.jl)
-5. 🗣 Commented on [#5669](https://github.com/openjournals/joss-reviews/issues/5669#issuecomment-1665951859) in [openjournals/joss-reviews](https://github.com/openjournals/joss-reviews)
+1. 🗣 Commented on [#5669](https://github.com/openjournals/joss-reviews/issues/5669#issuecomment-1666836458) in [openjournals/joss-reviews](https://github.com/openjournals/joss-reviews)
+2. 💪 Opened PR [#39](https://github.com/CliMA/ClimaOcean.jl/pull/39) in [CliMA/ClimaOcean.jl](https://github.com/CliMA/ClimaOcean.jl)
+3. 🗣 Commented on [#127](https://github.com/OceanBioME/OceanBioME.jl/pull/127#issuecomment-1666150360) in [OceanBioME/OceanBioME.jl](https://github.com/OceanBioME/OceanBioME.jl)
+4. 🗣 Commented on [#127](https://github.com/OceanBioME/OceanBioME.jl/pull/127#issuecomment-1666147749) in [OceanBioME/OceanBioME.jl](https://github.com/OceanBioME/OceanBioME.jl)
+5. 💪 Opened PR [#127](https://github.com/OceanBioME/OceanBioME.jl/pull/127) in [OceanBioME/OceanBioME.jl](https://github.com/OceanBioME/OceanBioME.jl)
 <!--END_SECTION:activity-->
 
 
