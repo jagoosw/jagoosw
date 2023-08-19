@@ -12,11 +12,11 @@ Some stats:
 
 And some of the things I've been doing recently (not including private repos):
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#130](https://github.com/OceanBioME/OceanBioME.jl/pull/130) in [OceanBioME/OceanBioME.jl](https://github.com/OceanBioME/OceanBioME.jl)
-2. 🗣 Commented on [#132](https://github.com/OceanBioME/OceanBioME.jl/pull/132#issuecomment-1680750132) in [OceanBioME/OceanBioME.jl](https://github.com/OceanBioME/OceanBioME.jl)
-3. 🗣 Commented on [#131](https://github.com/OceanBioME/OceanBioME.jl/pull/131#issuecomment-1680452356) in [OceanBioME/OceanBioME.jl](https://github.com/OceanBioME/OceanBioME.jl)
-4. 💪 Opened PR [#131](https://github.com/OceanBioME/OceanBioME.jl/pull/131) in [OceanBioME/OceanBioME.jl](https://github.com/OceanBioME/OceanBioME.jl)
-5. 🗣 Commented on [#3215](https://github.com/CliMA/Oceananigans.jl/pull/3215#issuecomment-1680388688) in [CliMA/Oceananigans.jl](https://github.com/CliMA/Oceananigans.jl)
+1. 🎉 Merged PR [#132](https://github.com/OceanBioME/OceanBioME.jl/pull/132) in [OceanBioME/OceanBioME.jl](https://github.com/OceanBioME/OceanBioME.jl)
+2. 🎉 Merged PR [#130](https://github.com/OceanBioME/OceanBioME.jl/pull/130) in [OceanBioME/OceanBioME.jl](https://github.com/OceanBioME/OceanBioME.jl)
+3. 🗣 Commented on [#132](https://github.com/OceanBioME/OceanBioME.jl/pull/132#issuecomment-1680750132) in [OceanBioME/OceanBioME.jl](https://github.com/OceanBioME/OceanBioME.jl)
+4. 🗣 Commented on [#131](https://github.com/OceanBioME/OceanBioME.jl/pull/131#issuecomment-1680452356) in [OceanBioME/OceanBioME.jl](https://github.com/OceanBioME/OceanBioME.jl)
+5. 💪 Opened PR [#131](https://github.com/OceanBioME/OceanBioME.jl/pull/131) in [OceanBioME/OceanBioME.jl](https://github.com/OceanBioME/OceanBioME.jl)
 <!--END_SECTION:activity-->
 
 
