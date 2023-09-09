@@ -12,11 +12,11 @@ Some stats:
 
 And some of the things I've been doing recently (not including private repos):
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#11](https://github.com/johnryantaylor/FDSE/pull/11) in [johnryantaylor/FDSE](https://github.com/johnryantaylor/FDSE)
-2. 💪 Opened PR [#139](https://github.com/OceanBioME/OceanBioME.jl/pull/139) in [OceanBioME/OceanBioME.jl](https://github.com/OceanBioME/OceanBioME.jl)
-3. 💪 Opened PR [#138](https://github.com/OceanBioME/OceanBioME.jl/pull/138) in [OceanBioME/OceanBioME.jl](https://github.com/OceanBioME/OceanBioME.jl)
-4. 🎉 Merged PR [#134](https://github.com/OceanBioME/OceanBioME.jl/pull/134) in [OceanBioME/OceanBioME.jl](https://github.com/OceanBioME/OceanBioME.jl)
-5. ❗ Opened issue [#137](https://github.com/OceanBioME/OceanBioME.jl/issues/137) in [OceanBioME/OceanBioME.jl](https://github.com/OceanBioME/OceanBioME.jl)
+1. 🗣 Commented on [#12](https://github.com/johnryantaylor/FDSE/pull/12#issuecomment-1712365548) in [johnryantaylor/FDSE](https://github.com/johnryantaylor/FDSE)
+2. 💪 Opened PR [#12](https://github.com/johnryantaylor/FDSE/pull/12) in [johnryantaylor/FDSE](https://github.com/johnryantaylor/FDSE)
+3. 💪 Opened PR [#11](https://github.com/johnryantaylor/FDSE/pull/11) in [johnryantaylor/FDSE](https://github.com/johnryantaylor/FDSE)
+4. 💪 Opened PR [#139](https://github.com/OceanBioME/OceanBioME.jl/pull/139) in [OceanBioME/OceanBioME.jl](https://github.com/OceanBioME/OceanBioME.jl)
+5. 💪 Opened PR [#138](https://github.com/OceanBioME/OceanBioME.jl/pull/138) in [OceanBioME/OceanBioME.jl](https://github.com/OceanBioME/OceanBioME.jl)
 <!--END_SECTION:activity-->
 
 
