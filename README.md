@@ -12,11 +12,11 @@ Some stats:
 
 And some of the things I've been doing recently (not including private repos):
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#2080](https://github.com/JuliaGPU/CUDA.jl/issues/2080) in [JuliaGPU/CUDA.jl](https://github.com/JuliaGPU/CUDA.jl)
-2. 🗣 Commented on [#140](https://github.com/OceanBioME/OceanBioME.jl/issues/140#issuecomment-1719182238) in [OceanBioME/OceanBioME.jl](https://github.com/OceanBioME/OceanBioME.jl)
-3. 🗣 Commented on [#129](https://github.com/OceanBioME/OceanBioME.jl/issues/129#issuecomment-1719181553) in [OceanBioME/OceanBioME.jl](https://github.com/OceanBioME/OceanBioME.jl)
-4. 🗣 Commented on [#3262](https://github.com/CliMA/Oceananigans.jl/pull/3262#issuecomment-1719179326) in [CliMA/Oceananigans.jl](https://github.com/CliMA/Oceananigans.jl)
-5. ❌ Closed PR [#3262](https://github.com/CliMA/Oceananigans.jl/pull/3262) in [CliMA/Oceananigans.jl](https://github.com/CliMA/Oceananigans.jl)
+1. 🗣 Commented on [#138](https://github.com/OceanBioME/OceanBioME.jl/pull/138#issuecomment-1719740775) in [OceanBioME/OceanBioME.jl](https://github.com/OceanBioME/OceanBioME.jl)
+2. ❗ Opened issue [#2080](https://github.com/JuliaGPU/CUDA.jl/issues/2080) in [JuliaGPU/CUDA.jl](https://github.com/JuliaGPU/CUDA.jl)
+3. 🗣 Commented on [#140](https://github.com/OceanBioME/OceanBioME.jl/issues/140#issuecomment-1719182238) in [OceanBioME/OceanBioME.jl](https://github.com/OceanBioME/OceanBioME.jl)
+4. 🗣 Commented on [#129](https://github.com/OceanBioME/OceanBioME.jl/issues/129#issuecomment-1719181553) in [OceanBioME/OceanBioME.jl](https://github.com/OceanBioME/OceanBioME.jl)
+5. 🗣 Commented on [#3262](https://github.com/CliMA/Oceananigans.jl/pull/3262#issuecomment-1719179326) in [CliMA/Oceananigans.jl](https://github.com/CliMA/Oceananigans.jl)
 <!--END_SECTION:activity-->
 
 
