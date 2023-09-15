@@ -12,11 +12,11 @@ Some stats:
 
 And some of the things I've been doing recently (not including private repos):
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#138](https://github.com/OceanBioME/OceanBioME.jl/pull/138#issuecomment-1719944618) in [OceanBioME/OceanBioME.jl](https://github.com/OceanBioME/OceanBioME.jl)
-2. 🗣 Commented on [#139](https://github.com/OceanBioME/OceanBioME.jl/pull/139#issuecomment-1719860226) in [OceanBioME/OceanBioME.jl](https://github.com/OceanBioME/OceanBioME.jl)
-3. 🗣 Commented on [#138](https://github.com/OceanBioME/OceanBioME.jl/pull/138#issuecomment-1719816411) in [OceanBioME/OceanBioME.jl](https://github.com/OceanBioME/OceanBioME.jl)
-4. 🗣 Commented on [#138](https://github.com/OceanBioME/OceanBioME.jl/pull/138#issuecomment-1719740775) in [OceanBioME/OceanBioME.jl](https://github.com/OceanBioME/OceanBioME.jl)
-5. ❗ Opened issue [#2080](https://github.com/JuliaGPU/CUDA.jl/issues/2080) in [JuliaGPU/CUDA.jl](https://github.com/JuliaGPU/CUDA.jl)
+1. 🗣 Commented on [#3267](https://github.com/CliMA/Oceananigans.jl/issues/3267#issuecomment-1721341345) in [CliMA/Oceananigans.jl](https://github.com/CliMA/Oceananigans.jl)
+2. 🗣 Commented on [#3267](https://github.com/CliMA/Oceananigans.jl/issues/3267#issuecomment-1721310129) in [CliMA/Oceananigans.jl](https://github.com/CliMA/Oceananigans.jl)
+3. ❗ Opened issue [#3267](https://github.com/CliMA/Oceananigans.jl/issues/3267) in [CliMA/Oceananigans.jl](https://github.com/CliMA/Oceananigans.jl)
+4. 🗣 Commented on [#138](https://github.com/OceanBioME/OceanBioME.jl/pull/138#issuecomment-1719944618) in [OceanBioME/OceanBioME.jl](https://github.com/OceanBioME/OceanBioME.jl)
+5. 🗣 Commented on [#139](https://github.com/OceanBioME/OceanBioME.jl/pull/139#issuecomment-1719860226) in [OceanBioME/OceanBioME.jl](https://github.com/OceanBioME/OceanBioME.jl)
 <!--END_SECTION:activity-->
 
 
