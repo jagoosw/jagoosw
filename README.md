@@ -8,7 +8,7 @@ Some stats:
 ![](https://raw.githubusercontent.com/jagoosw/jagoosw/main/profile-summary-card-output/nord_dark/3-stats.svg)
 ![](https://raw.githubusercontent.com/jagoosw/jagoosw/main/profile-summary-card-output/nord_dark/4-productive-time.svg)
 -->
-![Stats card](https://github-readme-stats.vercel.app/api?username=jagoosw&count_private=true&show_icons=true&theme=transparent&hide_title=true)
+![Stats card](https://github-readme-stats.vercel.app/api?username=jagoosw&count_private=true&show_icons=true&theme=transparent&hide_title=true&rank_icon=percentile&show=reviews)
 
 And some of the things I've been doing recently (not including private repos):
 <!--START_SECTION:activity-->
