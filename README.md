@@ -12,11 +12,11 @@ Some stats:
 
 And some of the things I've been doing recently (not including private repos):
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#143](https://github.com/OceanBioME/OceanBioME.jl/issues/143#issuecomment-1727890082) in [OceanBioME/OceanBioME.jl](https://github.com/OceanBioME/OceanBioME.jl)
-2. 🗣 Commented on [#146](https://github.com/OceanBioME/OceanBioME.jl/pull/146#issuecomment-1727461087) in [OceanBioME/OceanBioME.jl](https://github.com/OceanBioME/OceanBioME.jl)
-3. 🗣 Commented on [#146](https://github.com/OceanBioME/OceanBioME.jl/pull/146#issuecomment-1727417464) in [OceanBioME/OceanBioME.jl](https://github.com/OceanBioME/OceanBioME.jl)
-4. 🗣 Commented on [#143](https://github.com/OceanBioME/OceanBioME.jl/issues/143#issuecomment-1726298920) in [OceanBioME/OceanBioME.jl](https://github.com/OceanBioME/OceanBioME.jl)
-5. 🗣 Commented on [#143](https://github.com/OceanBioME/OceanBioME.jl/issues/143#issuecomment-1726297932) in [OceanBioME/OceanBioME.jl](https://github.com/OceanBioME/OceanBioME.jl)
+1. 🗣 Commented on [#143](https://github.com/OceanBioME/OceanBioME.jl/issues/143#issuecomment-1727925350) in [OceanBioME/OceanBioME.jl](https://github.com/OceanBioME/OceanBioME.jl)
+2. 🗣 Commented on [#2080](https://github.com/JuliaGPU/CUDA.jl/issues/2080#issuecomment-1727909929) in [JuliaGPU/CUDA.jl](https://github.com/JuliaGPU/CUDA.jl)
+3. 🗣 Commented on [#143](https://github.com/OceanBioME/OceanBioME.jl/issues/143#issuecomment-1727890082) in [OceanBioME/OceanBioME.jl](https://github.com/OceanBioME/OceanBioME.jl)
+4. 🗣 Commented on [#146](https://github.com/OceanBioME/OceanBioME.jl/pull/146#issuecomment-1727461087) in [OceanBioME/OceanBioME.jl](https://github.com/OceanBioME/OceanBioME.jl)
+5. 🗣 Commented on [#146](https://github.com/OceanBioME/OceanBioME.jl/pull/146#issuecomment-1727417464) in [OceanBioME/OceanBioME.jl](https://github.com/OceanBioME/OceanBioME.jl)
 <!--END_SECTION:activity-->
 
 
