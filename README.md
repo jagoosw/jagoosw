@@ -12,11 +12,11 @@ Some stats:
 
 And some of the things I've been doing recently (not including private repos):
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3288](https://github.com/CliMA/Oceananigans.jl/pull/3288#issuecomment-1735147309) in [CliMA/Oceananigans.jl](https://github.com/CliMA/Oceananigans.jl)
-2. 🗣 Commented on [#3288](https://github.com/CliMA/Oceananigans.jl/pull/3288#issuecomment-1734214155) in [CliMA/Oceananigans.jl](https://github.com/CliMA/Oceananigans.jl)
-3. 🗣 Commented on [#3288](https://github.com/CliMA/Oceananigans.jl/pull/3288#issuecomment-1734211968) in [CliMA/Oceananigans.jl](https://github.com/CliMA/Oceananigans.jl)
-4. 🔒 Closed issue [#2](https://github.com/OceanBioME/OceanBioMEArtifacts/issues/2) in [OceanBioME/OceanBioMEArtifacts](https://github.com/OceanBioME/OceanBioMEArtifacts)
-5. 🗣 Commented on [#48](https://github.com/JuliaLinearAlgebra/AppleAccelerate.jl/issues/48#issuecomment-1734193248) in [JuliaLinearAlgebra/AppleAccelerate.jl](https://github.com/JuliaLinearAlgebra/AppleAccelerate.jl)
+1. 🗣 Commented on [#3288](https://github.com/CliMA/Oceananigans.jl/pull/3288#issuecomment-1735298954) in [CliMA/Oceananigans.jl](https://github.com/CliMA/Oceananigans.jl)
+2. 🗣 Commented on [#3288](https://github.com/CliMA/Oceananigans.jl/pull/3288#issuecomment-1735298477) in [CliMA/Oceananigans.jl](https://github.com/CliMA/Oceananigans.jl)
+3. 🗣 Commented on [#3288](https://github.com/CliMA/Oceananigans.jl/pull/3288#issuecomment-1735147309) in [CliMA/Oceananigans.jl](https://github.com/CliMA/Oceananigans.jl)
+4. 🗣 Commented on [#3288](https://github.com/CliMA/Oceananigans.jl/pull/3288#issuecomment-1734214155) in [CliMA/Oceananigans.jl](https://github.com/CliMA/Oceananigans.jl)
+5. 🗣 Commented on [#3288](https://github.com/CliMA/Oceananigans.jl/pull/3288#issuecomment-1734211968) in [CliMA/Oceananigans.jl](https://github.com/CliMA/Oceananigans.jl)
 <!--END_SECTION:activity-->
 
 
