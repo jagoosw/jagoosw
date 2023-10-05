@@ -12,11 +12,11 @@ Some stats:
 
 And some of the things I've been doing recently (not including private repos):
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5669](https://github.com/openjournals/joss-reviews/issues/5669#issuecomment-1749071789) in [openjournals/joss-reviews](https://github.com/openjournals/joss-reviews)
-2. 🗣 Commented on [#5669](https://github.com/openjournals/joss-reviews/issues/5669#issuecomment-1748675831) in [openjournals/joss-reviews](https://github.com/openjournals/joss-reviews)
-3. 🗣 Commented on [#5669](https://github.com/openjournals/joss-reviews/issues/5669#issuecomment-1745175139) in [openjournals/joss-reviews](https://github.com/openjournals/joss-reviews)
-4. 🚀 Published release [0.7.0](https://github.com/OceanBioME/OceanBioME.jl/releases/tag/v0.7.0) in [OceanBioME/OceanBioME.jl](https://github.com/OceanBioME/OceanBioME.jl)
-5. 🗣 Commented on [#143](https://github.com/OceanBioME/OceanBioME.jl/issues/143#issuecomment-1745146742) in [OceanBioME/OceanBioME.jl](https://github.com/OceanBioME/OceanBioME.jl)
+1. 🗣 Commented on [#146](https://github.com/OceanBioME/OceanBioME.jl/pull/146#issuecomment-1749397658) in [OceanBioME/OceanBioME.jl](https://github.com/OceanBioME/OceanBioME.jl)
+2. 🎉 Merged PR [#76](https://github.com/OceanBioME/OceanBioME.jl/pull/76) in [OceanBioME/OceanBioME.jl](https://github.com/OceanBioME/OceanBioME.jl)
+3. 🗣 Commented on [#5669](https://github.com/openjournals/joss-reviews/issues/5669#issuecomment-1749071789) in [openjournals/joss-reviews](https://github.com/openjournals/joss-reviews)
+4. 🗣 Commented on [#5669](https://github.com/openjournals/joss-reviews/issues/5669#issuecomment-1748675831) in [openjournals/joss-reviews](https://github.com/openjournals/joss-reviews)
+5. 🗣 Commented on [#5669](https://github.com/openjournals/joss-reviews/issues/5669#issuecomment-1745175139) in [openjournals/joss-reviews](https://github.com/openjournals/joss-reviews)
 <!--END_SECTION:activity-->
 
 
