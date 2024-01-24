@@ -12,11 +12,11 @@ Some stats:
 
 And some of the things I've been doing recently (not including private repos):
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#99174](https://github.com/JuliaRegistries/General/pull/99174#issuecomment-1900795821) in [JuliaRegistries/General](https://github.com/JuliaRegistries/General)
-2. 🎉 Merged PR [#6](https://github.com/jagoosw/Walrus.jl/pull/6) in [jagoosw/Walrus.jl](https://github.com/jagoosw/Walrus.jl)
-3. 🗣 Commented on [#99174](https://github.com/JuliaRegistries/General/pull/99174#issuecomment-1900742363) in [JuliaRegistries/General](https://github.com/JuliaRegistries/General)
-4. 💪 Opened PR [#6](https://github.com/jagoosw/Walrus.jl/pull/6) in [jagoosw/Walrus.jl](https://github.com/jagoosw/Walrus.jl)
-5. 🎉 Merged PR [#5](https://github.com/jagoosw/Walrus.jl/pull/5) in [jagoosw/Walrus.jl](https://github.com/jagoosw/Walrus.jl)
+1. 💪 Opened PR [#3441](https://github.com/CliMA/Oceananigans.jl/pull/3441) in [CliMA/Oceananigans.jl](https://github.com/CliMA/Oceananigans.jl)
+2. 🗣 Commented on [#99174](https://github.com/JuliaRegistries/General/pull/99174#issuecomment-1900795821) in [JuliaRegistries/General](https://github.com/JuliaRegistries/General)
+3. 🎉 Merged PR [#6](https://github.com/jagoosw/Walrus.jl/pull/6) in [jagoosw/Walrus.jl](https://github.com/jagoosw/Walrus.jl)
+4. 🗣 Commented on [#99174](https://github.com/JuliaRegistries/General/pull/99174#issuecomment-1900742363) in [JuliaRegistries/General](https://github.com/JuliaRegistries/General)
+5. 💪 Opened PR [#6](https://github.com/jagoosw/Walrus.jl/pull/6) in [jagoosw/Walrus.jl](https://github.com/jagoosw/Walrus.jl)
 <!--END_SECTION:activity-->
 
 
