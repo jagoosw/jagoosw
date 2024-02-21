@@ -12,11 +12,11 @@ Some stats:
 
 And some of the things I've been doing recently (not including private repos):
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7](https://github.com/jagoosw/Walrus.jl/pull/7) in [jagoosw/Walrus.jl](https://github.com/jagoosw/Walrus.jl)
-2. 🗣 Commented on [#3472](https://github.com/CliMA/Oceananigans.jl/issues/3472#issuecomment-1942256057) in [CliMA/Oceananigans.jl](https://github.com/CliMA/Oceananigans.jl)
-3. ❗ Opened issue [#3472](https://github.com/CliMA/Oceananigans.jl/issues/3472) in [CliMA/Oceananigans.jl](https://github.com/CliMA/Oceananigans.jl)
-4. 🗣 Commented on [#3458](https://github.com/CliMA/Oceananigans.jl/pull/3458#issuecomment-1928286928) in [CliMA/Oceananigans.jl](https://github.com/CliMA/Oceananigans.jl)
-5. ❌ Closed PR [#3458](https://github.com/CliMA/Oceananigans.jl/pull/3458) in [CliMA/Oceananigans.jl](https://github.com/CliMA/Oceananigans.jl)
+1. 🎉 Merged PR [#7](https://github.com/jagoosw/Walrus.jl/pull/7) in [jagoosw/Walrus.jl](https://github.com/jagoosw/Walrus.jl)
+2. 🗣 Commented on [#7](https://github.com/jagoosw/Walrus.jl/pull/7#issuecomment-1957066642) in [jagoosw/Walrus.jl](https://github.com/jagoosw/Walrus.jl)
+3. 💪 Opened PR [#7](https://github.com/jagoosw/Walrus.jl/pull/7) in [jagoosw/Walrus.jl](https://github.com/jagoosw/Walrus.jl)
+4. 🗣 Commented on [#3472](https://github.com/CliMA/Oceananigans.jl/issues/3472#issuecomment-1942256057) in [CliMA/Oceananigans.jl](https://github.com/CliMA/Oceananigans.jl)
+5. ❗ Opened issue [#3472](https://github.com/CliMA/Oceananigans.jl/issues/3472) in [CliMA/Oceananigans.jl](https://github.com/CliMA/Oceananigans.jl)
 <!--END_SECTION:activity-->
 
 
