@@ -12,11 +12,11 @@ Some stats:
 
 And some of the things I've been doing recently (not including private repos):
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com/OceanBioME/GlobalOceanBioME/issues/6#issuecomment-2215328818) in [OceanBioME/GlobalOceanBioME](https://github.com/OceanBioME/GlobalOceanBioME)
-2. 🚀 Published release [v0.3.2](https://github.com/jagoosw/GiantKelpDynamics/releases/tag/v0.3.2) in [jagoosw/GiantKelpDynamics](https://github.com/jagoosw/GiantKelpDynamics)
-3. 🚀 Published release [v0.3.1](https://github.com/jagoosw/GiantKelpDynamics/releases/tag/v0.3.1) in [jagoosw/GiantKelpDynamics](https://github.com/jagoosw/GiantKelpDynamics)
-4. 🎉 Merged PR [#6](https://github.com/jagoosw/GiantKelpDynamics/pull/6) in [jagoosw/GiantKelpDynamics](https://github.com/jagoosw/GiantKelpDynamics)
-5. 🗣 Commented on [#6](https://github.com/OceanBioME/GlobalOceanBioME/issues/6#issuecomment-2214316108) in [OceanBioME/GlobalOceanBioME](https://github.com/OceanBioME/GlobalOceanBioME)
+1. 🗣 Commented on [#3482](https://github.com/CliMA/Oceananigans.jl/pull/3482#issuecomment-2215473632) in [CliMA/Oceananigans.jl](https://github.com/CliMA/Oceananigans.jl)
+2. 🗣 Commented on [#6](https://github.com/OceanBioME/GlobalOceanBioME/issues/6#issuecomment-2215328818) in [OceanBioME/GlobalOceanBioME](https://github.com/OceanBioME/GlobalOceanBioME)
+3. 🚀 Published release [v0.3.2](https://github.com/jagoosw/GiantKelpDynamics/releases/tag/v0.3.2) in [jagoosw/GiantKelpDynamics](https://github.com/jagoosw/GiantKelpDynamics)
+4. 🚀 Published release [v0.3.1](https://github.com/jagoosw/GiantKelpDynamics/releases/tag/v0.3.1) in [jagoosw/GiantKelpDynamics](https://github.com/jagoosw/GiantKelpDynamics)
+5. 🎉 Merged PR [#6](https://github.com/jagoosw/GiantKelpDynamics/pull/6) in [jagoosw/GiantKelpDynamics](https://github.com/jagoosw/GiantKelpDynamics)
 <!--END_SECTION:activity-->
 
 
