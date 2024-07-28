@@ -12,11 +12,11 @@ Some stats:
 
 And some of the things I've been doing recently (not including private repos):
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#190](https://github.com/OceanBioME/OceanBioME.jl/pull/190#issuecomment-2253366191) in [OceanBioME/OceanBioME.jl](https://github.com/OceanBioME/OceanBioME.jl)
-2. 🗣 Commented on [#193](https://github.com/OceanBioME/OceanBioME.jl/pull/193#issuecomment-2253040392) in [OceanBioME/OceanBioME.jl](https://github.com/OceanBioME/OceanBioME.jl)
-3. 💪 Opened PR [#193](https://github.com/OceanBioME/OceanBioME.jl/pull/193) in [OceanBioME/OceanBioME.jl](https://github.com/OceanBioME/OceanBioME.jl)
-4. 🗣 Commented on [#190](https://github.com/OceanBioME/OceanBioME.jl/pull/190#issuecomment-2252919488) in [OceanBioME/OceanBioME.jl](https://github.com/OceanBioME/OceanBioME.jl)
-5. 🗣 Commented on [#190](https://github.com/OceanBioME/OceanBioME.jl/pull/190#issuecomment-2252918563) in [OceanBioME/OceanBioME.jl](https://github.com/OceanBioME/OceanBioME.jl)
+1. 🗣 Commented on [#11](https://github.com/jagoosw/getgfs/pull/11#issuecomment-2254474887) in [jagoosw/getgfs](https://github.com/jagoosw/getgfs)
+2. 🔒 Closed issue [#8](https://github.com/jagoosw/getgfs/issues/8) in [jagoosw/getgfs](https://github.com/jagoosw/getgfs)
+3. 🎉 Merged PR [#11](https://github.com/jagoosw/getgfs/pull/11) in [jagoosw/getgfs](https://github.com/jagoosw/getgfs)
+4. 🗣 Commented on [#11](https://github.com/jagoosw/getgfs/pull/11#issuecomment-2254468477) in [jagoosw/getgfs](https://github.com/jagoosw/getgfs)
+5. 🗣 Commented on [#190](https://github.com/OceanBioME/OceanBioME.jl/pull/190#issuecomment-2253366191) in [OceanBioME/OceanBioME.jl](https://github.com/OceanBioME/OceanBioME.jl)
 <!--END_SECTION:activity-->
 
 
