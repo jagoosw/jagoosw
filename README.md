@@ -12,11 +12,11 @@ Some stats:
 
 And some of the things I've been doing recently (not including private repos):
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3810](https://github.com/CliMA/Oceananigans.jl/issues/3810#issuecomment-2389135623) in [CliMA/Oceananigans.jl](https://github.com/CliMA/Oceananigans.jl)
-2. 🗣 Commented on [#3810](https://github.com/CliMA/Oceananigans.jl/issues/3810#issuecomment-2389132522) in [CliMA/Oceananigans.jl](https://github.com/CliMA/Oceananigans.jl)
-3. 🗣 Commented on [#3810](https://github.com/CliMA/Oceananigans.jl/issues/3810#issuecomment-2389129405) in [CliMA/Oceananigans.jl](https://github.com/CliMA/Oceananigans.jl)
-4. 🗣 Commented on [#24](https://github.com/agate-model/Agate.jl/issues/24#issuecomment-2388492683) in [agate-model/Agate.jl](https://github.com/agate-model/Agate.jl)
-5. 🎉 Merged PR [#215](https://github.com/OceanBioME/OceanBioME.jl/pull/215) in [OceanBioME/OceanBioME.jl](https://github.com/OceanBioME/OceanBioME.jl)
+1. 🗣 Commented on [#168](https://github.com/OceanBioME/OceanBioME.jl/issues/168#issuecomment-2389498713) in [OceanBioME/OceanBioME.jl](https://github.com/OceanBioME/OceanBioME.jl)
+2. 🔒 Closed issue [#168](https://github.com/OceanBioME/OceanBioME.jl/issues/168) in [OceanBioME/OceanBioME.jl](https://github.com/OceanBioME/OceanBioME.jl)
+3. 🔒 Closed issue [#214](https://github.com/OceanBioME/OceanBioME.jl/issues/214) in [OceanBioME/OceanBioME.jl](https://github.com/OceanBioME/OceanBioME.jl)
+4. 🗣 Commented on [#214](https://github.com/OceanBioME/OceanBioME.jl/issues/214#issuecomment-2389498172) in [OceanBioME/OceanBioME.jl](https://github.com/OceanBioME/OceanBioME.jl)
+5. 🗣 Commented on [#3810](https://github.com/CliMA/Oceananigans.jl/issues/3810#issuecomment-2389135623) in [CliMA/Oceananigans.jl](https://github.com/CliMA/Oceananigans.jl)
 <!--END_SECTION:activity-->
 
 
