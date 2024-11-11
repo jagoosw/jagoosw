@@ -12,11 +12,11 @@ Some stats:
 
 And some of the things I've been doing recently (not including private repos):
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#182](https://github.com/tomchor/Oceanostics.jl/pull/182) in [tomchor/Oceanostics.jl](https://github.com/tomchor/Oceanostics.jl)
-2. 🗣 Commented on [#229](https://github.com/OceanBioME/OceanBioME.jl/issues/229#issuecomment-2465093225) in [OceanBioME/OceanBioME.jl](https://github.com/OceanBioME/OceanBioME.jl)
-3. 🗣 Commented on [#229](https://github.com/OceanBioME/OceanBioME.jl/issues/229#issuecomment-2465068527) in [OceanBioME/OceanBioME.jl](https://github.com/OceanBioME/OceanBioME.jl)
-4. 🗣 Commented on [#228](https://github.com/OceanBioME/OceanBioME.jl/issues/228#issuecomment-2462173819) in [OceanBioME/OceanBioME.jl](https://github.com/OceanBioME/OceanBioME.jl)
-5. 🗣 Commented on [#3888](https://github.com/CliMA/Oceananigans.jl/pull/3888#issuecomment-2455392735) in [CliMA/Oceananigans.jl](https://github.com/CliMA/Oceananigans.jl)
+1. 🗣 Commented on [#3834](https://github.com/CliMA/Oceananigans.jl/pull/3834#issuecomment-2469008911) in [CliMA/Oceananigans.jl](https://github.com/CliMA/Oceananigans.jl)
+2. 🗣 Commented on [#182](https://github.com/tomchor/Oceanostics.jl/pull/182#issuecomment-2469005256) in [tomchor/Oceanostics.jl](https://github.com/tomchor/Oceanostics.jl)
+3. 🗣 Commented on [#182](https://github.com/tomchor/Oceanostics.jl/pull/182#issuecomment-2469004183) in [tomchor/Oceanostics.jl](https://github.com/tomchor/Oceanostics.jl)
+4. 💪 Opened PR [#182](https://github.com/tomchor/Oceanostics.jl/pull/182) in [tomchor/Oceanostics.jl](https://github.com/tomchor/Oceanostics.jl)
+5. 🗣 Commented on [#229](https://github.com/OceanBioME/OceanBioME.jl/issues/229#issuecomment-2465093225) in [OceanBioME/OceanBioME.jl](https://github.com/OceanBioME/OceanBioME.jl)
 <!--END_SECTION:activity-->
 
 
