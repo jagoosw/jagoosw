@@ -12,11 +12,11 @@ Some stats:
 
 And some of the things I've been doing recently (not including private repos):
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#17](https://github.com/jagoosw/Walrus.jl/pull/17) in [jagoosw/Walrus.jl](https://github.com/jagoosw/Walrus.jl)
-2. 🎉 Merged PR [#15](https://github.com/jagoosw/Walrus.jl/pull/15) in [jagoosw/Walrus.jl](https://github.com/jagoosw/Walrus.jl)
-3. 💪 Opened PR [#7](https://github.com/jagoosw/GiantKelpDynamics/pull/7) in [jagoosw/GiantKelpDynamics](https://github.com/jagoosw/GiantKelpDynamics)
-4. 💪 Opened PR [#244](https://github.com/OceanBioME/OceanBioME.jl/pull/244) in [OceanBioME/OceanBioME.jl](https://github.com/OceanBioME/OceanBioME.jl)
-5. 🎉 Merged PR [#16](https://github.com/jagoosw/Walrus.jl/pull/16) in [jagoosw/Walrus.jl](https://github.com/jagoosw/Walrus.jl)
+1. 🗣 Commented on [#244](https://github.com/OceanBioME/OceanBioME.jl/pull/244#issuecomment-2612815276) in [OceanBioME/OceanBioME.jl](https://github.com/OceanBioME/OceanBioME.jl)
+2. 🎉 Merged PR [#17](https://github.com/jagoosw/Walrus.jl/pull/17) in [jagoosw/Walrus.jl](https://github.com/jagoosw/Walrus.jl)
+3. 💪 Opened PR [#17](https://github.com/jagoosw/Walrus.jl/pull/17) in [jagoosw/Walrus.jl](https://github.com/jagoosw/Walrus.jl)
+4. 🎉 Merged PR [#15](https://github.com/jagoosw/Walrus.jl/pull/15) in [jagoosw/Walrus.jl](https://github.com/jagoosw/Walrus.jl)
+5. 💪 Opened PR [#7](https://github.com/jagoosw/GiantKelpDynamics/pull/7) in [jagoosw/GiantKelpDynamics](https://github.com/jagoosw/GiantKelpDynamics)
 <!--END_SECTION:activity-->
 
 
