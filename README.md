@@ -12,11 +12,11 @@ Some stats:
 
 And some of the things I've been doing recently (not including private repos):
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#9](https://github.com/jagoosw/GiantKelpDynamics/pull/9) in [jagoosw/GiantKelpDynamics](https://github.com/jagoosw/GiantKelpDynamics)
-2. 🎉 Merged PR [#8](https://github.com/jagoosw/GiantKelpDynamics/pull/8) in [jagoosw/GiantKelpDynamics](https://github.com/jagoosw/GiantKelpDynamics)
-3. 🗣 Commented on [#8](https://github.com/jagoosw/GiantKelpDynamics/pull/8#issuecomment-3023395416) in [jagoosw/GiantKelpDynamics](https://github.com/jagoosw/GiantKelpDynamics)
-4. 🗣 Commented on [#4627](https://github.com/CliMA/Oceananigans.jl/pull/4627#issuecomment-3023151730) in [CliMA/Oceananigans.jl](https://github.com/CliMA/Oceananigans.jl)
-5. 🎉 Merged PR [#4612](https://github.com/CliMA/Oceananigans.jl/pull/4612) in [CliMA/Oceananigans.jl](https://github.com/CliMA/Oceananigans.jl)
+1. 💪 Opened PR [#20](https://github.com/jagoosw/Walrus.jl/pull/20) in [jagoosw/Walrus.jl](https://github.com/jagoosw/Walrus.jl)
+2. 💪 Opened PR [#9](https://github.com/jagoosw/GiantKelpDynamics/pull/9) in [jagoosw/GiantKelpDynamics](https://github.com/jagoosw/GiantKelpDynamics)
+3. 🎉 Merged PR [#8](https://github.com/jagoosw/GiantKelpDynamics/pull/8) in [jagoosw/GiantKelpDynamics](https://github.com/jagoosw/GiantKelpDynamics)
+4. 🗣 Commented on [#8](https://github.com/jagoosw/GiantKelpDynamics/pull/8#issuecomment-3023395416) in [jagoosw/GiantKelpDynamics](https://github.com/jagoosw/GiantKelpDynamics)
+5. 🗣 Commented on [#4627](https://github.com/CliMA/Oceananigans.jl/pull/4627#issuecomment-3023151730) in [CliMA/Oceananigans.jl](https://github.com/CliMA/Oceananigans.jl)
 <!--END_SECTION:activity-->
 
 
