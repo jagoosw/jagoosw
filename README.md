@@ -12,11 +12,11 @@ Some stats:
 
 And some of the things I've been doing recently (not including private repos):
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/OceanBioME/.github/pull/1) in [OceanBioME/.github](https://github.com/OceanBioME/.github)
-2. 💪 Opened PR [#1](https://github.com/OceanBioME/.github/pull/1) in [OceanBioME/.github](https://github.com/OceanBioME/.github)
-3. ❗ Opened issue [#5231](https://github.com/CliMA/Oceananigans.jl/issues/5231) in [CliMA/Oceananigans.jl](https://github.com/CliMA/Oceananigans.jl)
-4. 🗣 Commented on [#332](https://github.com/OceanBioME/OceanBioME.jl/pull/332#issuecomment-3790002683) in [OceanBioME/OceanBioME.jl](https://github.com/OceanBioME/OceanBioME.jl)
-5. 🎉 Merged PR [#336](https://github.com/OceanBioME/OceanBioME.jl/pull/336) in [OceanBioME/OceanBioME.jl](https://github.com/OceanBioME/OceanBioME.jl)
+1. 🎉 Merged PR [#9](https://github.com/jagoosw/GiantKelpDynamics/pull/9) in [jagoosw/GiantKelpDynamics](https://github.com/jagoosw/GiantKelpDynamics)
+2. 🎉 Merged PR [#1](https://github.com/OceanBioME/.github/pull/1) in [OceanBioME/.github](https://github.com/OceanBioME/.github)
+3. 💪 Opened PR [#1](https://github.com/OceanBioME/.github/pull/1) in [OceanBioME/.github](https://github.com/OceanBioME/.github)
+4. ❗ Opened issue [#5231](https://github.com/CliMA/Oceananigans.jl/issues/5231) in [CliMA/Oceananigans.jl](https://github.com/CliMA/Oceananigans.jl)
+5. 🗣 Commented on [#332](https://github.com/OceanBioME/OceanBioME.jl/pull/332#issuecomment-3790002683) in [OceanBioME/OceanBioME.jl](https://github.com/OceanBioME/OceanBioME.jl)
 <!--END_SECTION:activity-->
 
 
