@@ -12,11 +12,11 @@ Some stats:
 
 And some of the things I've been doing recently (not including private repos):
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#5264](https://github.com/CliMA/Oceananigans.jl/issues/5264) in [CliMA/Oceananigans.jl](https://github.com/CliMA/Oceananigans.jl)
-2. 🎉 Merged PR [#9](https://github.com/jagoosw/GiantKelpDynamics/pull/9) in [jagoosw/GiantKelpDynamics](https://github.com/jagoosw/GiantKelpDynamics)
-3. 🎉 Merged PR [#1](https://github.com/OceanBioME/.github/pull/1) in [OceanBioME/.github](https://github.com/OceanBioME/.github)
-4. 💪 Opened PR [#1](https://github.com/OceanBioME/.github/pull/1) in [OceanBioME/.github](https://github.com/OceanBioME/.github)
-5. ❗ Opened issue [#5231](https://github.com/CliMA/Oceananigans.jl/issues/5231) in [CliMA/Oceananigans.jl](https://github.com/CliMA/Oceananigans.jl)
+1. 🎉 Merged PR [#95](https://github.com/JuliaLinearAlgebra/AppleAccelerate.jl/pull/95) in [JuliaLinearAlgebra/AppleAccelerate.jl](https://github.com/JuliaLinearAlgebra/AppleAccelerate.jl)
+2. ❗ Opened issue [#5264](https://github.com/CliMA/Oceananigans.jl/issues/5264) in [CliMA/Oceananigans.jl](https://github.com/CliMA/Oceananigans.jl)
+3. 🎉 Merged PR [#9](https://github.com/jagoosw/GiantKelpDynamics/pull/9) in [jagoosw/GiantKelpDynamics](https://github.com/jagoosw/GiantKelpDynamics)
+4. 🎉 Merged PR [#1](https://github.com/OceanBioME/.github/pull/1) in [OceanBioME/.github](https://github.com/OceanBioME/.github)
+5. 💪 Opened PR [#1](https://github.com/OceanBioME/.github/pull/1) in [OceanBioME/.github](https://github.com/OceanBioME/.github)
 <!--END_SECTION:activity-->
 
 
