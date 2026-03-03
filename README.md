@@ -12,11 +12,11 @@ Some stats:
 
 And some of the things I've been doing recently (not including private repos):
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#61](https://github.com/NumericalEarth/NumericalEarth.jl/issues/61) in [NumericalEarth/NumericalEarth.jl](https://github.com/NumericalEarth/NumericalEarth.jl)
-2. 🎉 Merged PR [#95](https://github.com/JuliaLinearAlgebra/AppleAccelerate.jl/pull/95) in [JuliaLinearAlgebra/AppleAccelerate.jl](https://github.com/JuliaLinearAlgebra/AppleAccelerate.jl)
-3. ❗ Opened issue [#5264](https://github.com/CliMA/Oceananigans.jl/issues/5264) in [CliMA/Oceananigans.jl](https://github.com/CliMA/Oceananigans.jl)
-4. 🎉 Merged PR [#9](https://github.com/jagoosw/GiantKelpDynamics/pull/9) in [jagoosw/GiantKelpDynamics](https://github.com/jagoosw/GiantKelpDynamics)
-5. 🎉 Merged PR [#1](https://github.com/OceanBioME/.github/pull/1) in [OceanBioME/.github](https://github.com/OceanBioME/.github)
+1. 💪 Opened PR [#340](https://github.com/OceanBioME/OceanBioME.jl/pull/340) in [OceanBioME/OceanBioME.jl](https://github.com/OceanBioME/OceanBioME.jl)
+2. ❗ Opened issue [#61](https://github.com/NumericalEarth/NumericalEarth.jl/issues/61) in [NumericalEarth/NumericalEarth.jl](https://github.com/NumericalEarth/NumericalEarth.jl)
+3. 🎉 Merged PR [#95](https://github.com/JuliaLinearAlgebra/AppleAccelerate.jl/pull/95) in [JuliaLinearAlgebra/AppleAccelerate.jl](https://github.com/JuliaLinearAlgebra/AppleAccelerate.jl)
+4. ❗ Opened issue [#5264](https://github.com/CliMA/Oceananigans.jl/issues/5264) in [CliMA/Oceananigans.jl](https://github.com/CliMA/Oceananigans.jl)
+5. 🎉 Merged PR [#9](https://github.com/jagoosw/GiantKelpDynamics/pull/9) in [jagoosw/GiantKelpDynamics](https://github.com/jagoosw/GiantKelpDynamics)
 <!--END_SECTION:activity-->
 
 
