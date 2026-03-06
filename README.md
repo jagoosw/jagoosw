@@ -12,11 +12,11 @@ Some stats:
 
 And some of the things I've been doing recently (not including private repos):
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#7](https://github.com/Fiskaaling/FO_tidal_particle_tracking/issues/7) in [Fiskaaling/FO_tidal_particle_tracking](https://github.com/Fiskaaling/FO_tidal_particle_tracking)
-2. 💪 Opened PR [#103](https://github.com/NumericalEarth/NumericalEarth.jl/pull/103) in [NumericalEarth/NumericalEarth.jl](https://github.com/NumericalEarth/NumericalEarth.jl)
-3. ❗ Opened issue [#102](https://github.com/NumericalEarth/NumericalEarth.jl/issues/102) in [NumericalEarth/NumericalEarth.jl](https://github.com/NumericalEarth/NumericalEarth.jl)
-4. 💪 Opened PR [#340](https://github.com/OceanBioME/OceanBioME.jl/pull/340) in [OceanBioME/OceanBioME.jl](https://github.com/OceanBioME/OceanBioME.jl)
-5. ❗ Opened issue [#61](https://github.com/NumericalEarth/NumericalEarth.jl/issues/61) in [NumericalEarth/NumericalEarth.jl](https://github.com/NumericalEarth/NumericalEarth.jl)
+1. 🗣 Commented on [#338](https://github.com/OceanBioME/OceanBioME.jl/pull/338#issuecomment-4013957300) in [OceanBioME/OceanBioME.jl](https://github.com/OceanBioME/OceanBioME.jl)
+2. ❌ Closed PR [#338](https://github.com/OceanBioME/OceanBioME.jl/pull/338) in [OceanBioME/OceanBioME.jl](https://github.com/OceanBioME/OceanBioME.jl)
+3. ❗ Opened issue [#7](https://github.com/Fiskaaling/FO_tidal_particle_tracking/issues/7) in [Fiskaaling/FO_tidal_particle_tracking](https://github.com/Fiskaaling/FO_tidal_particle_tracking)
+4. 💪 Opened PR [#103](https://github.com/NumericalEarth/NumericalEarth.jl/pull/103) in [NumericalEarth/NumericalEarth.jl](https://github.com/NumericalEarth/NumericalEarth.jl)
+5. ❗ Opened issue [#102](https://github.com/NumericalEarth/NumericalEarth.jl/issues/102) in [NumericalEarth/NumericalEarth.jl](https://github.com/NumericalEarth/NumericalEarth.jl)
 <!--END_SECTION:activity-->
 
 
