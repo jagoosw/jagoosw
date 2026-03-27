@@ -1,0 +1,342 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Jago Strong-Wright</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <!--<link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,600;1,400;1,600&family=Outfit:wght@300;400;500&display=swap" rel="stylesheet">-->
+  <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,600;1,400;1,600&family=Figtree:wght@300;400;500&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="style.css" />
+  <link rel="icon" type="image/svg+xml" href="images/favicon.svg" />
+</head>
+<body>
+
+  <!-- NAV -->
+  <nav>
+    <a href="#hero" class="nav-name">Jago Strong-Wright</a>
+    <ul class="nav-links">
+      <li><a href="#research">Research</a></li>
+      <li><a href="#publications">Papers</a></li>
+      <li><a href="#software">Software</a></li>
+      <li><a href="#contact">Contact</a></li>
+    </ul>
+  </nav>
+
+  <!-- HERO -->
+  <section id="hero">
+    <div class="hero-text">
+      <p class="hello">Hello, I'm</p>
+      <h1>Jago Strong-Wright</h1>
+      <!--<h2>I study the <em>ocean</em>.</h2>-->
+      <div class="hero-body">
+        <p>
+          I'm a PhD candidate using modelling to study the <em>ocean carbon cycle</em> at DAMTP, University of Cambridge.
+        </p>
+      </div>
+      <!--<div class="hero-cta">
+        <a href="#research" class="btn btn-solid">What I work on</a>
+        <a href="cv.pdf" class="btn btn-outline">Download CV</a>
+      </div>-->
+    </div>
+    <div class="hero-photo-wrap">
+      <div class="hero-photo-placeholder">
+        <img src="images/headshot.jpeg" alt="Jago Strong-Wright" class="hero-photo" />
+        <!--This is me-->
+      </div>
+    </div>
+  </section>
+
+  <!-- RESEARCH — grey band -->
+  <div class="section section-grey">
+    <div class="section-inner">
+      <section id="research" style="padding:5.5rem 0; opacity:1; transform:none;" class="section visible">
+        <p class="section-tag">Research</p>
+        <h2>Modelling...mCDR...giant kelp...</h2>
+        <p>
+          My work has been a mix of different topic. I spend a lot of time developing <u><a href="#software">tools</a></u> to facilitate faster and more flexible modelling of ocean biogeochemistry.
+          We developed <u><a href="#oceanbiome">OceanBioME.jl</a></u> with the hope of making it easier to use models which typically are wrapped up in large code bases following the design philosophy behind <u><a href="#oceananigans">Oceananigans.jl</a></u> where you build models in scripts and only change the bits you need.
+          The hopefully means that its also easy to prototype and iterate new parameterisations and model components.
+          This is particularly useful for mCDR where novel components are needed to represent interventions
+        </p>
+        <p>
+          I also study giant kelp forests. I have developed a model of giant kelp which includes the phyics (kelp movement and drag on the water), the kelps growth, and interaction with the rest of the biogeochemical system.
+          I am using this model to try to better understand how giant kelp forests store carbon, and how they effect the ecosystem around them.
+        </p>
+
+        <div class="topics">
+          <span class="topic-pill">Biogeochemistry</span>
+          <span class="topic-pill">mCDR</span>
+          <span class="topic-pill">Modelling</span>
+          <span class="topic-pill">GPU</span>
+          <span class="topic-pill">Kelp forests</span>
+          <span class="topic-pill">Julia</span>
+        </div>
+      </section>
+    </div>
+  </div>
+
+  <section id="publications" class="section">
+    <p class="section-tag">Selected publications</p>
+
+    <!-- PAPERS -->
+    <ul class="pub-list">
+      <li class="pub-item">
+        <span class="pub-yr">2024</span>
+        <div>
+          <p class="pub-title"><a href="https://doi.org/10.1017/flo.2024.13" target="_blank" rel="noopener">A model of tidal flow and tracer release in a giant kelp forest</a></p>
+          <p class="pub-meta">Strong-Wright, J. &amp; Taylor, J. R. · <em>Flow</em></p>
+        </div>
+      </li>
+      <li class="pub-item">
+        <span class="pub-yr">2024</span>
+        <div>
+          <p class="pub-title"><a href="https://doi.org/10.3389/fmars.2024.1359614" target="_blank" rel="noopener">Modeling Carbon Dioxide Removal via Sinking of Particulate Organic Carbon from Macroalgae Cultivation</a></p>
+          <p class="pub-meta">Chen, S., Strong-Wright, J. &amp; Taylor, J. R. · <em>Frontiers in Marine Science, Ocean Solutions</em></p>
+        </div>
+      </li>
+      <li class="pub-item">
+        <span class="pub-yr">2023</span>
+        <div>
+          <p class="pub-title"><a href="https://doi.org/10.1093/mnras/stad2895" target="_blank" rel="noopener">A disc wind model for blueshifts in quasar broad emission lines</a></p>
+          <p class="pub-meta">Matthews, J., Strong-Wright, J., Knigge, C., Hewett, P., Temple, M., Long, K., Rankine, A., Stepney, M., Banerji, M. &amp; Richards, G. · <em>Monthly Notices of the Royal Astronomical Society</em></p>
+        </div>
+      </li>
+      <li class="pub-item">
+        <span class="pub-yr">2023</span>
+        <div>
+          <p class="pub-title"><a href="https://doi.org/10.21105/joss.05669" target="_blank" rel="noopener">OceanBioME.jl: A flexible environment for modelling the coupled interactions between ocean biogeochemistry and physics</a></p>
+          <p class="pub-meta">Strong-Wright, J., Chen, S., Constantinou, N. C., Silvestri, S., Wagner, G. L. &amp; Taylor, J. R. · <em>Journal of Open Source Software</em>, 8(90), 5669</p>
+        </div>
+      </li>
+      <li class="pub-item">
+        <span class="pub-yr">2022</span>
+        <div>
+          <p class="pub-title"><a href="https://doi.org/10.3389/fmars.2021.793977" target="_blank" rel="noopener">Modelling the growth potential of the kelp <em>Saccharina latissima</em> in the North Atlantic</a></p>
+          <p class="pub-meta">Strong-Wright, J. &amp; Taylor, J. R. · <em>Frontiers in Marine Science, Ocean Solutions</em></p>
+        </div>
+      </li>
+    </ul>
+
+    <!-- PREPRINTS -->
+    <h3 style="font-family:var(--serif);font-size:1.1rem;font-weight:400;color:var(--col-heading);margin:3rem 0 1.2rem;padding-top:2rem;">Preprints</h3>
+    <ul class="pub-list">
+      <li class="pub-item">
+        <span class="pub-yr">2026</span>
+        <div>
+          <p class="pub-title"><a href="https://arxiv.org/abs/2502.14148" target="_blank" rel="noopener">High-level, high-resolution ocean modeling at all scales with Oceananigans</a></p>
+          <p class="pub-meta">Wagner, G. L., Silvestri, S., Constantinou, N. C., Ramadhan, A., et al. · submitted to <em>J. Advances in Modeling Earth Systems</em></p>
+        </div>
+      </li>
+    </ul>
+
+    <!-- POSTERS -->
+    <h3 style="font-family:var(--serif);font-size:1.1rem;font-weight:400;color:var(--col-heading);margin:3rem 0 1.2rem;padding-top:2rem;">Posters</h3>
+    <ul class="pub-list">
+      <li class="pub-item">
+        <span class="pub-yr">2026</span>
+        <div>
+          <p class="pub-title"><a href="" target="_blank" rel="noopener">Constraining carbon export from giant kelp using a forest scale physics-biogeochemical model</a></p>
+          <p class="pub-meta">Strong-Wright, J. &amp; Taylor, J. R. · <em>Ocean Science Meeting</em></p>
+        </div>
+      </li>
+      <li class="pub-item">
+        <span class="pub-yr">2024</span>
+        <div>
+          <p class="pub-title"><a href="https://doi.org/10.22541/essoar.170898512.21545823/v1" target="_blank" rel="noopener">The impact of flow interaction on carbon sequestration potential in an idealised giant kelp forest</a></p>
+          <p class="pub-meta">Strong-Wright, J. &amp; Taylor, J. R. · <em>Ocean Science Meeting/ESS Open Archive</em></p>
+        </div>
+      </li>
+      <li class="pub-item">
+        <span class="pub-yr">2023</span>
+        <div>
+          <p class="pub-title"><a href="https://jagosw.com/ovs23" target="_blank" rel="noopener">The impact of flow interaction on carbon sequestration potential in an idealised giant kelp forest</a></p>
+          <p class="pub-meta">Strong-Wright, J. &amp; Taylor, J. R. · <em>Ocean Visions Meeting</em></p>
+        </div>
+      </li>
+    </ul>
+
+    <div style="margin-top:1.8rem; display:flex;">
+        <a href="https://scholar.google.com" class="btn btn-outline" target="_blank" rel="noopener">All publications on Google Scholar →</a>
+    </div>
+  </section>
+
+  <!-- SOFTWARE — grey band -->
+  <div class="section section-grey">
+    <div class="section-inner">
+      <section id="software" style="padding:5.5rem 0; opacity:1; transform:none;" class="section visible">
+        <p class="section-tag">Software</p>
+        <h2>Tools I've built and contributed to</h2>
+        <div class="sw-grid">
+          <div class="sw-card" id="oceanbiome">
+            <p class="sw-card-name"><a href="https://github.com/OceanBioME/OceanBioME.jl" target="_blank" rel="noopener">OceanBioME.jl</a></p>
+            <p class="sw-card-desc"><em>Ocean</em> <em>Bio</em>geochemical <em>M</em>odelling <em>E</em>nviroment is a Julia package designed to be fast and flexible. It builds on <a href="#oceananigans" target="#oceananigans" >Oceananigans.jl</a> to provide modular biogeochemical models which are (hopefully) straight forward to use and modify.</p>
+            <p class="sw-card-lang"><span class="sw-dot"></span>Biogeochemistry</p>
+          </div>
+          <div class="sw-card", id="oceananigans">
+            <p class="sw-card-name"><a href="https://github.com/clima/oceananigans.jl" target="_blank" rel="noopener">Oceananigans.jl</a></p>
+            <p class="sw-card-desc"><it>"Julia software for fast, friendly, flexible, ocean-flavored fluid dynamics on CPUs and GPUs"</it> - I contribute to maintain and develop new features such as <em>open boundaries</em> for the nonhydrostatic model and the infrastructure for easy <em>bioegeochemical</em> model setup.</p>
+            <p class="sw-card-lang"><span class="sw-dot" style="background:#3572a5"></span>Physics</p>
+          </div>
+          <div class="sw-card">
+            <p class="sw-card-name"><a href="https://github.com/jagoosw/Walrus.jl" target="_blank" rel="noopener">Walrus.jl</a></p>
+            <p class="sw-card-desc">Walrus (closure -> seal -> seal 🦭 -> walrus) is a package providing various closures for Oceananigans simulations such as surface radiation and momentum exchange, wall stress parameterisaitons, and tidal forcing. <br><details><summary><small>Note</small></summary><small>I developed this for near field LES applications at the same time that <a href="https://github.com/NumericalEarth/NumericalEarth.jl">NumericalEarth</a> was developing their coupling, I would highly reccomend their version for most applications.</small></details></p>
+            <p class="sw-card-lang"><span class="sw-dot" style="background:#3572a5"></span>Model closures</p>
+          </div>
+          <div class="sw-card">
+            <p class="sw-card-name">Others</p>
+            <ul class="sw-card-desc">
+                <li>GlobalOceanBioME: early attempts at global runs of OceanBioME models</li>
+                <li>GiantKelp.jl: WIP model of the movement and growth of giant kelp (coming soon)</li>
+                <li><a href="https://github.com/jagoosw/CaliforniaBightNitrate.jl" target="_blank" class = "sw-link">CaliforniaBightNitrate.jl</a>: interpolates the temperature-nitrate relation in the California Bight found by <a href="https://doi.org/10.3389/fmars.2020.00022" class = "sw-link"> Snyder et al. (2020)</a></li>
+                <li><a href="https://github.com/jagoosw/getgfs" target="_blank" class = "sw-link">getgfs</a>: Python package that extracts weather forecasts from NOAA GFS without funny dependancies</li>
+            </ul>
+          </div>
+        </div>
+        <div style="margin-top:1.8rem; display:flex;">
+            <a href="https://github.com/jagoosw" class="btn btn-outline" target="_blank" rel="noopener">My GitHub →</a>
+        </div>
+      </section>
+    </div>
+  </div>
+
+  <!-- CONTACT — white -->
+  <section id="contact" class="section">
+    <p class="section-tag">Contact</p>
+    <p class="contact-intro">
+        Please get in touch!
+    </p>
+    <ul class="contact-list">
+      <li class="contact-item">
+        <a href="mailto:js2430@damtp.cam.ac.uk">
+          <span><span class="ci-label">Email</span>js2430@damtp.cam.ac.uk</span>
+          <span class="ci-arrow">↗</span>
+        </a>
+      </li>
+      <li class="contact-item">
+        <a href="https://github.com/jagoosw" target="_blank" rel="noopener">
+          <span><span class="ci-label">GitHub</span>github.com/jagoosw</span>
+          <span class="ci-arrow">↗</span>
+        </a>
+      </li>
+      <li class="contact-item">
+        <a href="https://scholar.google.com/citations?hl=en&user=joZq--kAAAAJ" target="_blank" rel="noopener">
+          <span><span class="ci-label">Scholar</span>Google Scholar</span>
+          <span class="ci-arrow">↗</span>
+        </a>
+      </li>
+      <!--<li class="contact-item">
+        <a href="https://orcid.org/0000-0000-0000-0000" target="_blank" rel="noopener">
+          <span><span class="ci-label">ORCID</span>0000-0000-0000-0000</span>
+          <span class="ci-arrow">↗</span>
+        </a>
+      </li> TODO: find out how to make orcid actually have stuff on it -->
+    </ul>
+  </section>
+
+
+  <!-- JEWELLERY — white -->
+  <section id="jewellery" class="section">
+    <p class="section-tag">Other interests</p>
+    <div class="sports-divider">
+      <span class="sports-divider-label">I enjoy making things, particularly jewellery at the moment</span>
+    </div>
+    <div class="gallery-grid">
+      <div class="gallery-item" onclick="openLightbox(this)">
+        <div class="gallery-placeholder">
+            <img src="images/jewllery/1.jpeg" alt="A gold lily" />
+        </div>
+        <span class="gallery-caption">A lily (inspired) necklace</span>
+      </div>
+      <div class="gallery-item" onclick="openLightbox(this)">
+        <div class="gallery-placeholder">
+            <img src="images/jewllery/2.jpeg" alt="A flower made from twisted wire around a pearl" />
+        </div>
+        <span class="gallery-caption">A small pearl flower</span>
+      </div>
+      <div class="gallery-item" onclick="openLightbox(this)">
+        <div class="gallery-placeholder">
+            <img src="images/jewllery/3.jpeg" alt="A heart made from twisted wire" />
+        </div>
+        <span class="gallery-caption">Entwined heart</span>
+      </div>
+      <div class="gallery-item" onclick="openLightbox(this)">
+        <div class="gallery-placeholder">
+            <img src="images/jewllery/4.jpeg" alt="Small golden hoop earrings with wire wrapping the ends" />
+        </div>
+        <span class="gallery-caption">Earrings</span>
+      </div>
+      <div class="gallery-item" onclick="openLightbox(this)">
+        <div class="gallery-placeholder">
+            <img src="images/jewllery/5.jpeg" alt="Small dangling heart earrrings with a small pink saphsapphireire in each heart" />
+        </div>
+        <span class="gallery-caption">Pink sapphire heart earrings</span>
+      </div>
+      <div class="gallery-item" onclick="openLightbox(this)">
+        <div class="gallery-placeholder">
+            <img src="images/jewllery/6.jpeg" alt="Cufflinks in the shape of rowing blades with red surface" />
+        </div>
+        <span class="gallery-caption">Red enameled rowing blade (oar) cufflinks</span>
+      </div>
+    </div>
+
+    <!-- Sports row -->
+    <div class="sports-divider">
+      <span class="sports-divider-label">& always have some kind of sport to do</span>
+    </div>
+    <div class="sports-row">
+      <div class="sport-photo-item" onclick="openLightbox(this)">
+        <img src="images/sport/cycling.png" alt="Cycling" />
+        <span class="sport-photo-label">Cycling</span>
+      </div>
+      <div class="sport-photo-item" onclick="openLightbox(this)">
+        <img src="images/sport/rowing.jpg" alt="Rowing" />
+        <span class="sport-photo-label">Rowing</span>
+      </div>
+      <div class="sport-photo-item" onclick="openLightbox(this)">
+        <img src="images/sport/rugby.jpg" alt="Playing rugby" />
+        <span class="sport-photo-label">Rugby</span>
+      </div>
+    </div>
+  </section>
+
+  <!-- Lightbox -->
+  <div class="lightbox" id="lightbox" onclick="closeLightbox()">
+    <button class="lightbox-close" onclick="closeLightbox()">×</button>
+    <img id="lightbox-img" src="" alt="" />
+  </div>
+
+  <!-- FOOTER -->
+  <footer>
+    <span>© <span id="yr"></span> Jago Strong-Wright</span>
+    <span>Hosted on <a href="https://pages.github.com" target="_blank" rel="noopener">GitHub Pages</a></span>
+  </footer>
+
+  <script>
+
+    function openLightbox(el) {
+      const img = el.querySelector('img');
+      if (!img) return; // no image yet, placeholder only
+      document.getElementById('lightbox-img').src = img.src;
+      document.getElementById('lightbox-img').alt = img.alt;
+      document.getElementById('lightbox').classList.add('open');
+      document.body.style.overflow = 'hidden';
+    }
+    function closeLightbox() {
+      document.getElementById('lightbox').classList.remove('open');
+      document.body.style.overflow = '';
+    }
+    document.addEventListener('keydown', e => { if (e.key === 'Escape') closeLightbox(); });
+
+    document.getElementById('yr').textContent = new Date().getFullYear();
+    const sections = document.querySelectorAll('.section:not(.visible)');
+    const io = new IntersectionObserver(entries => {
+      entries.forEach(e => {
+        if (e.isIntersecting) { e.target.classList.add('visible'); io.unobserve(e.target); }
+      });
+    }, { threshold: 0.07 });
+    sections.forEach(s => io.observe(s));
+  </script>
+</body>
+</html>

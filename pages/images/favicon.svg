@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <rect width="32" height="32" rx="6" fill="#2a6e6e"/>
+  <clipPath id="c"><rect width="32" height="32" rx="6"/></clipPath>
+  <g clip-path="url(#c)">
+    <!-- water background - reduced opacity -->
+    <path d="M0 19 Q4 15 8 19 Q12 23 16 19 Q20 15 24 19 Q28 23 32 19 L32 38 L0 38 Z" fill="#1a5050" opacity="0.5"/>
+    <path d="M0 23 Q4 19 8 23 Q12 27 16 23 Q20 19 24 23 Q28 27 32 23 L32 38 L0 38 Z" fill="#134040" opacity="0.35"/>
+    <!-- fish 1 -->
+    <ellipse cx="10" cy="26" rx="2.5" ry="1.2" fill="#4ab8b8" opacity="0.7"/>
+    <polygon points="12.5,26 14,24.5 14,27.5" fill="#4ab8b8" opacity="0.7"/>
+    <!-- fish 2 -->
+    <ellipse cx="21" cy="29" rx="1.8" ry="0.9" fill="#6acaca" opacity="0.6"/>
+    <polygon points="22.8,29 24,28 24,30" fill="#6acaca" opacity="0.6"/>
+    <!-- kelp stem -->
+    <path d="M5 34 Q6 30 5 26 Q4 23 5 20" fill="none" stroke="#2a9a6a" stroke-width="1" stroke-linecap="round" opacity="0.6"/>
+    <!-- left branch -->
+    <path d="M5 27 Q3 25 3 23" fill="none" stroke="#2a9a6a" stroke-width="0.8" stroke-linecap="round" opacity="0.5"/>
+    <!-- right branch -->
+    <path d="M5 27 Q7 25 7 23" fill="none" stroke="#2a9a6a" stroke-width="0.8" stroke-linecap="round" opacity="0.5"/>
+  </g>
+  <!-- initials -->
+  <text x="16" y="13" font-family="'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" dominant-baseline="middle" letter-spacing="0.5">JSW</text>
+</svg>
