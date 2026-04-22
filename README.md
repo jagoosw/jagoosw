@@ -12,11 +12,11 @@ Some stats:
 
 And some of the things I've been doing recently (not including private repos):
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#153](https://github.com/NumericalEarth/NumericalEarth.jl/pull/153#issuecomment-4292666446) in [NumericalEarth/NumericalEarth.jl](https://github.com/NumericalEarth/NumericalEarth.jl)
-2. 🗣 Commented on [#153](https://github.com/NumericalEarth/NumericalEarth.jl/pull/153#issuecomment-4292663847) in [NumericalEarth/NumericalEarth.jl](https://github.com/NumericalEarth/NumericalEarth.jl)
-3. 🗣 Commented on [#5479](https://github.com/CliMA/Oceananigans.jl/pull/5479#issuecomment-4290306377) in [CliMA/Oceananigans.jl](https://github.com/CliMA/Oceananigans.jl)
-4. 🗣 Commented on [#153](https://github.com/NumericalEarth/NumericalEarth.jl/pull/153#issuecomment-4280863613) in [NumericalEarth/NumericalEarth.jl](https://github.com/NumericalEarth/NumericalEarth.jl)
-5. 🗣 Commented on [#153](https://github.com/NumericalEarth/NumericalEarth.jl/pull/153#issuecomment-4269857111) in [NumericalEarth/NumericalEarth.jl](https://github.com/NumericalEarth/NumericalEarth.jl)
+1. ℹ️ Labeled PR [#354](https://github.com/OceanBioME/OceanBioME.jl/pull/354) in [OceanBioME/OceanBioME.jl](https://github.com/OceanBioME/OceanBioME.jl)
+2. ℹ️ Labeled PR [#354](https://github.com/OceanBioME/OceanBioME.jl/pull/354) in [OceanBioME/OceanBioME.jl](https://github.com/OceanBioME/OceanBioME.jl)
+3. 💪 Opened PR [#354](https://github.com/OceanBioME/OceanBioME.jl/pull/354) in [OceanBioME/OceanBioME.jl](https://github.com/OceanBioME/OceanBioME.jl)
+4. 🗣 Commented on [#153](https://github.com/NumericalEarth/NumericalEarth.jl/pull/153#issuecomment-4292666446) in [NumericalEarth/NumericalEarth.jl](https://github.com/NumericalEarth/NumericalEarth.jl)
+5. 🗣 Commented on [#153](https://github.com/NumericalEarth/NumericalEarth.jl/pull/153#issuecomment-4292663847) in [NumericalEarth/NumericalEarth.jl](https://github.com/NumericalEarth/NumericalEarth.jl)
 <!--END_SECTION:activity-->
 
 
