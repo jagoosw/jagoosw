@@ -12,11 +12,11 @@ Some stats:
 
 And some of the things I've been doing recently (not including private repos):
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#367](https://github.com/OceanBioME/OceanBioME.jl/pull/367#issuecomment-4400939593) in [OceanBioME/OceanBioME.jl](https://github.com/OceanBioME/OceanBioME.jl)
-2. 🎉 Merged PR [#355](https://github.com/OceanBioME/OceanBioME.jl/pull/355) in [OceanBioME/OceanBioME.jl](https://github.com/OceanBioME/OceanBioME.jl)
-3. 🔒 Closed issue [#349](https://github.com/OceanBioME/OceanBioME.jl/issues/349) in [OceanBioME/OceanBioME.jl](https://github.com/OceanBioME/OceanBioME.jl)
-4. ❗ Opened issue [#366](https://github.com/OceanBioME/OceanBioME.jl/issues/366) in [OceanBioME/OceanBioME.jl](https://github.com/OceanBioME/OceanBioME.jl)
-5. 🗣 Commented on [#199](https://github.com/NumericalEarth/NumericalEarth.jl/pull/199#issuecomment-4372154258) in [NumericalEarth/NumericalEarth.jl](https://github.com/NumericalEarth/NumericalEarth.jl)
+1. ❗ Opened issue [#368](https://github.com/OceanBioME/OceanBioME.jl/issues/368) in [OceanBioME/OceanBioME.jl](https://github.com/OceanBioME/OceanBioME.jl)
+2. 🗣 Commented on [#367](https://github.com/OceanBioME/OceanBioME.jl/pull/367#issuecomment-4400939593) in [OceanBioME/OceanBioME.jl](https://github.com/OceanBioME/OceanBioME.jl)
+3. 🎉 Merged PR [#355](https://github.com/OceanBioME/OceanBioME.jl/pull/355) in [OceanBioME/OceanBioME.jl](https://github.com/OceanBioME/OceanBioME.jl)
+4. 🔒 Closed issue [#349](https://github.com/OceanBioME/OceanBioME.jl/issues/349) in [OceanBioME/OceanBioME.jl](https://github.com/OceanBioME/OceanBioME.jl)
+5. ❗ Opened issue [#366](https://github.com/OceanBioME/OceanBioME.jl/issues/366) in [OceanBioME/OceanBioME.jl](https://github.com/OceanBioME/OceanBioME.jl)
 <!--END_SECTION:activity-->
 
 
