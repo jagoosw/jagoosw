@@ -12,11 +12,11 @@ Some stats:
 
 And some of the things I've been doing recently (not including private repos):
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#375](https://github.com/OceanBioME/OceanBioME.jl/pull/375#issuecomment-4479516566) in [OceanBioME/OceanBioME.jl](https://github.com/OceanBioME/OceanBioME.jl)
-2. 💪 Opened PR [#375](https://github.com/OceanBioME/OceanBioME.jl/pull/375) in [OceanBioME/OceanBioME.jl](https://github.com/OceanBioME/OceanBioME.jl)
-3. ℹ️ Assigned issue [#374](https://github.com/OceanBioME/OceanBioME.jl/issues/374) in [OceanBioME/OceanBioME.jl](https://github.com/OceanBioME/OceanBioME.jl)
-4. ❗ Opened issue [#374](https://github.com/OceanBioME/OceanBioME.jl/issues/374) in [OceanBioME/OceanBioME.jl](https://github.com/OceanBioME/OceanBioME.jl)
-5. 🗣 Commented on [#5587](https://github.com/CliMA/Oceananigans.jl/issues/5587#issuecomment-4455493840) in [CliMA/Oceananigans.jl](https://github.com/CliMA/Oceananigans.jl)
+1. ℹ️ Labeled PR [#377](https://github.com/OceanBioME/OceanBioME.jl/pull/377) in [OceanBioME/OceanBioME.jl](https://github.com/OceanBioME/OceanBioME.jl)
+2. ℹ️ Labeled PR [#377](https://github.com/OceanBioME/OceanBioME.jl/pull/377) in [OceanBioME/OceanBioME.jl](https://github.com/OceanBioME/OceanBioME.jl)
+3. ℹ️ Labeled PR [#377](https://github.com/OceanBioME/OceanBioME.jl/pull/377) in [OceanBioME/OceanBioME.jl](https://github.com/OceanBioME/OceanBioME.jl)
+4. 💪 Opened PR [#377](https://github.com/OceanBioME/OceanBioME.jl/pull/377) in [OceanBioME/OceanBioME.jl](https://github.com/OceanBioME/OceanBioME.jl)
+5. 🗣 Commented on [#375](https://github.com/OceanBioME/OceanBioME.jl/pull/375#issuecomment-4479516566) in [OceanBioME/OceanBioME.jl](https://github.com/OceanBioME/OceanBioME.jl)
 <!--END_SECTION:activity-->
 
 
