@@ -12,11 +12,11 @@ Some stats:
 
 And some of the things I've been doing recently (not including private repos):
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#199](https://github.com/NumericalEarth/NumericalEarth.jl/pull/199#issuecomment-4705992931) in [NumericalEarth/NumericalEarth.jl](https://github.com/NumericalEarth/NumericalEarth.jl)
-2. 🗣 Commented on [#377](https://github.com/OceanBioME/OceanBioME.jl/pull/377#issuecomment-4693783715) in [OceanBioME/OceanBioME.jl](https://github.com/OceanBioME/OceanBioME.jl)
-3. 🗣 Commented on [#199](https://github.com/NumericalEarth/NumericalEarth.jl/pull/199#issuecomment-4693422257) in [NumericalEarth/NumericalEarth.jl](https://github.com/NumericalEarth/NumericalEarth.jl)
-4. 🗣 Commented on [#199](https://github.com/NumericalEarth/NumericalEarth.jl/pull/199#issuecomment-4683972779) in [NumericalEarth/NumericalEarth.jl](https://github.com/NumericalEarth/NumericalEarth.jl)
-5. 🗣 Commented on [#5657](https://github.com/CliMA/Oceananigans.jl/issues/5657#issuecomment-4626419321) in [CliMA/Oceananigans.jl](https://github.com/CliMA/Oceananigans.jl)
+1. 🗣 Commented on [#354](https://github.com/NumericalEarth/NumericalEarth.jl/pull/354#issuecomment-4721169326) in [NumericalEarth/NumericalEarth.jl](https://github.com/NumericalEarth/NumericalEarth.jl)
+2. 💪 Opened PR [#354](https://github.com/NumericalEarth/NumericalEarth.jl/pull/354) in [NumericalEarth/NumericalEarth.jl](https://github.com/NumericalEarth/NumericalEarth.jl)
+3. ❗ Opened issue [#382](https://github.com/OceanBioME/OceanBioME.jl/issues/382) in [OceanBioME/OceanBioME.jl](https://github.com/OceanBioME/OceanBioME.jl)
+4. 🗣 Commented on [#199](https://github.com/NumericalEarth/NumericalEarth.jl/pull/199#issuecomment-4719206305) in [NumericalEarth/NumericalEarth.jl](https://github.com/NumericalEarth/NumericalEarth.jl)
+5. 💪 Opened PR [#352](https://github.com/NumericalEarth/NumericalEarth.jl/pull/352) in [NumericalEarth/NumericalEarth.jl](https://github.com/NumericalEarth/NumericalEarth.jl)
 <!--END_SECTION:activity-->
 
 
