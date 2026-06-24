@@ -12,11 +12,11 @@ Some stats:
 
 And some of the things I've been doing recently (not including private repos):
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#369](https://github.com/NumericalEarth/NumericalEarth.jl/issues/369) in [NumericalEarth/NumericalEarth.jl](https://github.com/NumericalEarth/NumericalEarth.jl)
-2. 🗣 Commented on [#354](https://github.com/NumericalEarth/NumericalEarth.jl/pull/354#issuecomment-4721169326) in [NumericalEarth/NumericalEarth.jl](https://github.com/NumericalEarth/NumericalEarth.jl)
-3. 💪 Opened PR [#354](https://github.com/NumericalEarth/NumericalEarth.jl/pull/354) in [NumericalEarth/NumericalEarth.jl](https://github.com/NumericalEarth/NumericalEarth.jl)
-4. ❗ Opened issue [#382](https://github.com/OceanBioME/OceanBioME.jl/issues/382) in [OceanBioME/OceanBioME.jl](https://github.com/OceanBioME/OceanBioME.jl)
-5. 🗣 Commented on [#199](https://github.com/NumericalEarth/NumericalEarth.jl/pull/199#issuecomment-4719206305) in [NumericalEarth/NumericalEarth.jl](https://github.com/NumericalEarth/NumericalEarth.jl)
+1. 🗣 Commented on [#103](https://github.com/NumericalEarth/NumericalEarth.jl/pull/103#issuecomment-4790894716) in [NumericalEarth/NumericalEarth.jl](https://github.com/NumericalEarth/NumericalEarth.jl)
+2. ❌ Closed PR [#103](https://github.com/NumericalEarth/NumericalEarth.jl/pull/103) in [NumericalEarth/NumericalEarth.jl](https://github.com/NumericalEarth/NumericalEarth.jl)
+3. ℹ️ Labeled issue [#369](https://github.com/NumericalEarth/NumericalEarth.jl/issues/369) in [NumericalEarth/NumericalEarth.jl](https://github.com/NumericalEarth/NumericalEarth.jl)
+4. 🗣 Commented on [#354](https://github.com/NumericalEarth/NumericalEarth.jl/pull/354#issuecomment-4721169326) in [NumericalEarth/NumericalEarth.jl](https://github.com/NumericalEarth/NumericalEarth.jl)
+5. 💪 Opened PR [#354](https://github.com/NumericalEarth/NumericalEarth.jl/pull/354) in [NumericalEarth/NumericalEarth.jl](https://github.com/NumericalEarth/NumericalEarth.jl)
 <!--END_SECTION:activity-->
 
 
