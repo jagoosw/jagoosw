@@ -12,11 +12,11 @@ Some stats:
 
 And some of the things I've been doing recently (not including private repos):
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#354](https://github.com/NumericalEarth/NumericalEarth.jl/pull/354#issuecomment-4811837654) in [NumericalEarth/NumericalEarth.jl](https://github.com/NumericalEarth/NumericalEarth.jl)
-2. 🗣 Commented on [#354](https://github.com/NumericalEarth/NumericalEarth.jl/pull/354#issuecomment-4809718799) in [NumericalEarth/NumericalEarth.jl](https://github.com/NumericalEarth/NumericalEarth.jl)
-3. 🗣 Commented on [#384](https://github.com/NumericalEarth/NumericalEarth.jl/pull/384#issuecomment-4803801433) in [NumericalEarth/NumericalEarth.jl](https://github.com/NumericalEarth/NumericalEarth.jl)
-4. 🗣 Commented on [#354](https://github.com/NumericalEarth/NumericalEarth.jl/pull/354#issuecomment-4802256012) in [NumericalEarth/NumericalEarth.jl](https://github.com/NumericalEarth/NumericalEarth.jl)
-5. 🗣 Commented on [#103](https://github.com/NumericalEarth/NumericalEarth.jl/pull/103#issuecomment-4790894716) in [NumericalEarth/NumericalEarth.jl](https://github.com/NumericalEarth/NumericalEarth.jl)
+1. 🗣 Commented on [#384](https://github.com/NumericalEarth/NumericalEarth.jl/pull/384#issuecomment-4809575459) in [NumericalEarth/NumericalEarth.jl](https://github.com/NumericalEarth/NumericalEarth.jl)
+2. 🗣 Commented on [#354](https://github.com/NumericalEarth/NumericalEarth.jl/pull/354#issuecomment-4811837654) in [NumericalEarth/NumericalEarth.jl](https://github.com/NumericalEarth/NumericalEarth.jl)
+3. 🗣 Commented on [#354](https://github.com/NumericalEarth/NumericalEarth.jl/pull/354#issuecomment-4809718799) in [NumericalEarth/NumericalEarth.jl](https://github.com/NumericalEarth/NumericalEarth.jl)
+4. 🗣 Commented on [#384](https://github.com/NumericalEarth/NumericalEarth.jl/pull/384#issuecomment-4803801433) in [NumericalEarth/NumericalEarth.jl](https://github.com/NumericalEarth/NumericalEarth.jl)
+5. 🗣 Commented on [#354](https://github.com/NumericalEarth/NumericalEarth.jl/pull/354#issuecomment-4802256012) in [NumericalEarth/NumericalEarth.jl](https://github.com/NumericalEarth/NumericalEarth.jl)
 <!--END_SECTION:activity-->
 
 
