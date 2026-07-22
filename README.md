@@ -12,11 +12,11 @@ Some stats:
 
 And some of the things I've been doing recently (not including private repos):
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#21](https://github.com/jagoosw/Walrus.jl/pull/21) in [jagoosw/Walrus.jl](https://github.com/jagoosw/Walrus.jl)
-2. 🗣 Commented on [#386](https://github.com/OceanBioME/OceanBioME.jl/pull/386#issuecomment-5020154545) in [OceanBioME/OceanBioME.jl](https://github.com/OceanBioME/OceanBioME.jl)
-3. 🗣 Commented on [#386](https://github.com/OceanBioME/OceanBioME.jl/pull/386#issuecomment-5011484321) in [OceanBioME/OceanBioME.jl](https://github.com/OceanBioME/OceanBioME.jl)
-4. 💪 Opened PR [#386](https://github.com/OceanBioME/OceanBioME.jl/pull/386) in [OceanBioME/OceanBioME.jl](https://github.com/OceanBioME/OceanBioME.jl)
-5. 🗣 Commented on [#377](https://github.com/OceanBioME/OceanBioME.jl/pull/377#issuecomment-5002128212) in [OceanBioME/OceanBioME.jl](https://github.com/OceanBioME/OceanBioME.jl)
+1. 🗣 Commented on [#102](https://github.com/NumericalEarth/NumericalEarth.jl/issues/102#issuecomment-5045421403) in [NumericalEarth/NumericalEarth.jl](https://github.com/NumericalEarth/NumericalEarth.jl)
+2. 🔒 Closed issue [#102](https://github.com/NumericalEarth/NumericalEarth.jl/issues/102) in [NumericalEarth/NumericalEarth.jl](https://github.com/NumericalEarth/NumericalEarth.jl)
+3. 🎉 Merged PR [#21](https://github.com/jagoosw/Walrus.jl/pull/21) in [jagoosw/Walrus.jl](https://github.com/jagoosw/Walrus.jl)
+4. 🗣 Commented on [#386](https://github.com/OceanBioME/OceanBioME.jl/pull/386#issuecomment-5020154545) in [OceanBioME/OceanBioME.jl](https://github.com/OceanBioME/OceanBioME.jl)
+5. 🗣 Commented on [#386](https://github.com/OceanBioME/OceanBioME.jl/pull/386#issuecomment-5011484321) in [OceanBioME/OceanBioME.jl](https://github.com/OceanBioME/OceanBioME.jl)
 <!--END_SECTION:activity-->
 
 
