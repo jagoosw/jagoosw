@@ -12,11 +12,11 @@ Some stats:
 
 And some of the things I've been doing recently (not including private repos):
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#432](https://github.com/OceanBioME/OceanBioME.jl/pull/432) in [OceanBioME/OceanBioME.jl](https://github.com/OceanBioME/OceanBioME.jl)
-2. 💪 Opened PR [#431](https://github.com/OceanBioME/OceanBioME.jl/pull/431) in [OceanBioME/OceanBioME.jl](https://github.com/OceanBioME/OceanBioME.jl)
-3. 🗣 Commented on [#6083](https://github.com/CliMA/Oceananigans.jl/pull/6083#issuecomment-5836544279) in [CliMA/Oceananigans.jl](https://github.com/CliMA/Oceananigans.jl)
-4. 💪 Opened PR [#6083](https://github.com/CliMA/Oceananigans.jl/pull/6083) in [CliMA/Oceananigans.jl](https://github.com/CliMA/Oceananigans.jl)
-5. 🗣 Commented on [#572](https://github.com/NumericalEarth/NumericalEarth.jl/pull/572#issuecomment-5816812079) in [NumericalEarth/NumericalEarth.jl](https://github.com/NumericalEarth/NumericalEarth.jl)
+1. 🔒 Closed issue [#435](https://github.com/OceanBioME/OceanBioME.jl/issues/435) in [OceanBioME/OceanBioME.jl](https://github.com/OceanBioME/OceanBioME.jl)
+2. 🔒 Closed issue [#434](https://github.com/OceanBioME/OceanBioME.jl/issues/434) in [OceanBioME/OceanBioME.jl](https://github.com/OceanBioME/OceanBioME.jl)
+3. 🔒 Closed issue [#388](https://github.com/OceanBioME/OceanBioME.jl/issues/388) in [OceanBioME/OceanBioME.jl](https://github.com/OceanBioME/OceanBioME.jl)
+4. 🔒 Closed issue [#382](https://github.com/OceanBioME/OceanBioME.jl/issues/382) in [OceanBioME/OceanBioME.jl](https://github.com/OceanBioME/OceanBioME.jl)
+5. 🗣 Commented on [#711](https://github.com/NumericalEarth/NumericalEarth.jl/pull/711#issuecomment-5874033390) in [NumericalEarth/NumericalEarth.jl](https://github.com/NumericalEarth/NumericalEarth.jl)
 <!--END_SECTION:activity-->
 
 
