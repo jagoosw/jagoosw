@@ -12,11 +12,11 @@ Some stats:
 
 And some of the things I've been doing recently (not including private repos):
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#302](https://github.com/NumericalEarth/NumericalEarth.jl/pull/302#issuecomment-6150568249) in [NumericalEarth/NumericalEarth.jl](https://github.com/NumericalEarth/NumericalEarth.jl)
-2. 💪 Opened PR [#777](https://github.com/NumericalEarth/NumericalEarth.jl/pull/777) in [NumericalEarth/NumericalEarth.jl](https://github.com/NumericalEarth/NumericalEarth.jl)
-3. 🗣 Commented on [#184](https://github.com/CliMA/ClimaSeaIce.jl/pull/184#issuecomment-6149698725) in [CliMA/ClimaSeaIce.jl](https://github.com/CliMA/ClimaSeaIce.jl)
-4. 🗣 Commented on [#6207](https://github.com/CliMA/Oceananigans.jl/issues/6207#issuecomment-6103241289) in [CliMA/Oceananigans.jl](https://github.com/CliMA/Oceananigans.jl)
-5. 🗣 Commented on [#6180](https://github.com/CliMA/Oceananigans.jl/pull/6180#issuecomment-6082692034) in [CliMA/Oceananigans.jl](https://github.com/CliMA/Oceananigans.jl)
+1. 💪 Opened PR [#778](https://github.com/NumericalEarth/NumericalEarth.jl/pull/778) in [NumericalEarth/NumericalEarth.jl](https://github.com/NumericalEarth/NumericalEarth.jl)
+2. 💪 Opened PR [#6245](https://github.com/CliMA/Oceananigans.jl/pull/6245) in [CliMA/Oceananigans.jl](https://github.com/CliMA/Oceananigans.jl)
+3. 🗣 Commented on [#302](https://github.com/NumericalEarth/NumericalEarth.jl/pull/302#issuecomment-6150568249) in [NumericalEarth/NumericalEarth.jl](https://github.com/NumericalEarth/NumericalEarth.jl)
+4. 💪 Opened PR [#777](https://github.com/NumericalEarth/NumericalEarth.jl/pull/777) in [NumericalEarth/NumericalEarth.jl](https://github.com/NumericalEarth/NumericalEarth.jl)
+5. 🗣 Commented on [#184](https://github.com/CliMA/ClimaSeaIce.jl/pull/184#issuecomment-6149698725) in [CliMA/ClimaSeaIce.jl](https://github.com/CliMA/ClimaSeaIce.jl)
 <!--END_SECTION:activity-->
 
 
