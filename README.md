@@ -12,11 +12,11 @@ Some stats:
 
 And some of the things I've been doing recently (not including private repos):
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#789](https://github.com/NumericalEarth/NumericalEarth.jl/pull/789#issuecomment-6292584052) in [NumericalEarth/NumericalEarth.jl](https://github.com/NumericalEarth/NumericalEarth.jl)
-2. 🗣 Commented on [#681](https://github.com/NumericalEarth/NumericalEarth.jl/pull/681#issuecomment-6292448326) in [NumericalEarth/NumericalEarth.jl](https://github.com/NumericalEarth/NumericalEarth.jl)
-3. 🗣 Commented on [#167191](https://github.com/JuliaRegistries/General/pull/167191#issuecomment-6220217464) in [JuliaRegistries/General](https://github.com/JuliaRegistries/General)
-4. 🗣 Commented on [#167622](https://github.com/JuliaRegistries/General/pull/167622#issuecomment-6220214962) in [JuliaRegistries/General](https://github.com/JuliaRegistries/General)
-5. 🗣 Commented on [#167549](https://github.com/JuliaRegistries/General/pull/167549#issuecomment-6220215970) in [JuliaRegistries/General](https://github.com/JuliaRegistries/General)
+1. 💪 Opened PR [#449](https://github.com/OceanBioME/OceanBioME.jl/pull/449) in [OceanBioME/OceanBioME.jl](https://github.com/OceanBioME/OceanBioME.jl)
+2. 🗣 Commented on [#789](https://github.com/NumericalEarth/NumericalEarth.jl/pull/789#issuecomment-6292584052) in [NumericalEarth/NumericalEarth.jl](https://github.com/NumericalEarth/NumericalEarth.jl)
+3. 🗣 Commented on [#681](https://github.com/NumericalEarth/NumericalEarth.jl/pull/681#issuecomment-6292448326) in [NumericalEarth/NumericalEarth.jl](https://github.com/NumericalEarth/NumericalEarth.jl)
+4. 🗣 Commented on [#167191](https://github.com/JuliaRegistries/General/pull/167191#issuecomment-6220217464) in [JuliaRegistries/General](https://github.com/JuliaRegistries/General)
+5. 🗣 Commented on [#167622](https://github.com/JuliaRegistries/General/pull/167622#issuecomment-6220214962) in [JuliaRegistries/General](https://github.com/JuliaRegistries/General)
 <!--END_SECTION:activity-->
 
 
