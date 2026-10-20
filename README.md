@@ -12,11 +12,11 @@ Some stats:
 
 And some of the things I've been doing recently (not including private repos):
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#449](https://github.com/OceanBioME/OceanBioME.jl/pull/449) in [OceanBioME/OceanBioME.jl](https://github.com/OceanBioME/OceanBioME.jl)
-2. 🗣 Commented on [#789](https://github.com/NumericalEarth/NumericalEarth.jl/pull/789#issuecomment-6292584052) in [NumericalEarth/NumericalEarth.jl](https://github.com/NumericalEarth/NumericalEarth.jl)
-3. 🗣 Commented on [#681](https://github.com/NumericalEarth/NumericalEarth.jl/pull/681#issuecomment-6292448326) in [NumericalEarth/NumericalEarth.jl](https://github.com/NumericalEarth/NumericalEarth.jl)
-4. 🗣 Commented on [#167191](https://github.com/JuliaRegistries/General/pull/167191#issuecomment-6220217464) in [JuliaRegistries/General](https://github.com/JuliaRegistries/General)
-5. 🗣 Commented on [#167622](https://github.com/JuliaRegistries/General/pull/167622#issuecomment-6220214962) in [JuliaRegistries/General](https://github.com/JuliaRegistries/General)
+1. 💪 Opened PR [#1093](https://github.com/JuliaGPU/Metal.jl/pull/1093) in [JuliaGPU/Metal.jl](https://github.com/JuliaGPU/Metal.jl)
+2. ❗ Opened issue [#1092](https://github.com/JuliaGPU/Metal.jl/issues/1092) in [JuliaGPU/Metal.jl](https://github.com/JuliaGPU/Metal.jl)
+3. 🗣 Commented on [#778](https://github.com/NumericalEarth/NumericalEarth.jl/pull/778#issuecomment-6298790091) in [NumericalEarth/NumericalEarth.jl](https://github.com/NumericalEarth/NumericalEarth.jl)
+4. 💪 Opened PR [#449](https://github.com/OceanBioME/OceanBioME.jl/pull/449) in [OceanBioME/OceanBioME.jl](https://github.com/OceanBioME/OceanBioME.jl)
+5. 🗣 Commented on [#789](https://github.com/NumericalEarth/NumericalEarth.jl/pull/789#issuecomment-6292584052) in [NumericalEarth/NumericalEarth.jl](https://github.com/NumericalEarth/NumericalEarth.jl)
 <!--END_SECTION:activity-->
 
 
