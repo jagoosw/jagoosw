@@ -12,11 +12,11 @@ Some stats:
 
 And some of the things I've been doing recently (not including private repos):
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#778](https://github.com/NumericalEarth/NumericalEarth.jl/pull/778#issuecomment-6346643254) in [NumericalEarth/NumericalEarth.jl](https://github.com/NumericalEarth/NumericalEarth.jl)
-2. 🎉 Merged PR [#1093](https://github.com/JuliaGPU/Metal.jl/pull/1093) in [JuliaGPU/Metal.jl](https://github.com/JuliaGPU/Metal.jl)
-3. 💪 Opened PR [#10](https://github.com/jagoosw/GiantKelpDynamics/pull/10) in [jagoosw/GiantKelpDynamics](https://github.com/jagoosw/GiantKelpDynamics)
-4. 💪 Opened PR [#1093](https://github.com/JuliaGPU/Metal.jl/pull/1093) in [JuliaGPU/Metal.jl](https://github.com/JuliaGPU/Metal.jl)
-5. ❗ Opened issue [#1092](https://github.com/JuliaGPU/Metal.jl/issues/1092) in [JuliaGPU/Metal.jl](https://github.com/JuliaGPU/Metal.jl)
+1. 💪 Opened PR [#6331](https://github.com/CliMA/Oceananigans.jl/pull/6331) in [CliMA/Oceananigans.jl](https://github.com/CliMA/Oceananigans.jl)
+2. 🗣 Commented on [#778](https://github.com/NumericalEarth/NumericalEarth.jl/pull/778#issuecomment-6346643254) in [NumericalEarth/NumericalEarth.jl](https://github.com/NumericalEarth/NumericalEarth.jl)
+3. 🎉 Merged PR [#1093](https://github.com/JuliaGPU/Metal.jl/pull/1093) in [JuliaGPU/Metal.jl](https://github.com/JuliaGPU/Metal.jl)
+4. 💪 Opened PR [#10](https://github.com/jagoosw/GiantKelpDynamics/pull/10) in [jagoosw/GiantKelpDynamics](https://github.com/jagoosw/GiantKelpDynamics)
+5. 💪 Opened PR [#1093](https://github.com/JuliaGPU/Metal.jl/pull/1093) in [JuliaGPU/Metal.jl](https://github.com/JuliaGPU/Metal.jl)
 <!--END_SECTION:activity-->
 
 
