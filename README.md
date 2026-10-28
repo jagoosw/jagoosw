@@ -12,11 +12,11 @@ Some stats:
 
 And some of the things I've been doing recently (not including private repos):
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6372](https://github.com/CliMA/Oceananigans.jl/pull/6372#issuecomment-6450860089) in [CliMA/Oceananigans.jl](https://github.com/CliMA/Oceananigans.jl)
-2. 💪 Opened PR [#6372](https://github.com/CliMA/Oceananigans.jl/pull/6372) in [CliMA/Oceananigans.jl](https://github.com/CliMA/Oceananigans.jl)
-3. 💪 Opened PR [#833](https://github.com/NumericalEarth/NumericalEarth.jl/pull/833) in [NumericalEarth/NumericalEarth.jl](https://github.com/NumericalEarth/NumericalEarth.jl)
-4. 💪 Opened PR [#2](https://github.com/jagoosw/NumericalOcean/pull/2) in [jagoosw/NumericalOcean](https://github.com/jagoosw/NumericalOcean)
-5. 🎉 Merged PR [#6331](https://github.com/CliMA/Oceananigans.jl/pull/6331) in [CliMA/Oceananigans.jl](https://github.com/CliMA/Oceananigans.jl)
+1. 🗣 Commented on [#6372](https://github.com/CliMA/Oceananigans.jl/pull/6372#issuecomment-6470302470) in [CliMA/Oceananigans.jl](https://github.com/CliMA/Oceananigans.jl)
+2. 🗣 Commented on [#6372](https://github.com/CliMA/Oceananigans.jl/pull/6372#issuecomment-6450860089) in [CliMA/Oceananigans.jl](https://github.com/CliMA/Oceananigans.jl)
+3. 💪 Opened PR [#6372](https://github.com/CliMA/Oceananigans.jl/pull/6372) in [CliMA/Oceananigans.jl](https://github.com/CliMA/Oceananigans.jl)
+4. 💪 Opened PR [#833](https://github.com/NumericalEarth/NumericalEarth.jl/pull/833) in [NumericalEarth/NumericalEarth.jl](https://github.com/NumericalEarth/NumericalEarth.jl)
+5. 💪 Opened PR [#2](https://github.com/jagoosw/NumericalOcean/pull/2) in [jagoosw/NumericalOcean](https://github.com/jagoosw/NumericalOcean)
 <!--END_SECTION:activity-->
 
 
