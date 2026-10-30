@@ -12,11 +12,11 @@ Some stats:
 
 And some of the things I've been doing recently (not including private repos):
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6372](https://github.com/CliMA/Oceananigans.jl/pull/6372#issuecomment-6476295730) in [CliMA/Oceananigans.jl](https://github.com/CliMA/Oceananigans.jl)
-2. 🗣 Commented on [#6372](https://github.com/CliMA/Oceananigans.jl/pull/6372#issuecomment-6470302470) in [CliMA/Oceananigans.jl](https://github.com/CliMA/Oceananigans.jl)
-3. 🗣 Commented on [#6372](https://github.com/CliMA/Oceananigans.jl/pull/6372#issuecomment-6450860089) in [CliMA/Oceananigans.jl](https://github.com/CliMA/Oceananigans.jl)
-4. 💪 Opened PR [#6372](https://github.com/CliMA/Oceananigans.jl/pull/6372) in [CliMA/Oceananigans.jl](https://github.com/CliMA/Oceananigans.jl)
-5. 💪 Opened PR [#833](https://github.com/NumericalEarth/NumericalEarth.jl/pull/833) in [NumericalEarth/NumericalEarth.jl](https://github.com/NumericalEarth/NumericalEarth.jl)
+1. 💪 Opened PR [#465](https://github.com/OceanBioME/OceanBioME.jl/pull/465) in [OceanBioME/OceanBioME.jl](https://github.com/OceanBioME/OceanBioME.jl)
+2. 🎉 Merged PR [#153](https://github.com/NumericalEarth/NumericalEarth.jl/pull/153) in [NumericalEarth/NumericalEarth.jl](https://github.com/NumericalEarth/NumericalEarth.jl)
+3. 🎉 Merged PR [#833](https://github.com/NumericalEarth/NumericalEarth.jl/pull/833) in [NumericalEarth/NumericalEarth.jl](https://github.com/NumericalEarth/NumericalEarth.jl)
+4. ❗ Opened issue [#862](https://github.com/NumericalEarth/NumericalEarth.jl/issues/862) in [NumericalEarth/NumericalEarth.jl](https://github.com/NumericalEarth/NumericalEarth.jl)
+5. 🗣 Commented on [#6372](https://github.com/CliMA/Oceananigans.jl/pull/6372#issuecomment-6476295730) in [CliMA/Oceananigans.jl](https://github.com/CliMA/Oceananigans.jl)
 <!--END_SECTION:activity-->
 
 
